@@ -1,0 +1,20 @@
+@Author: Justin Hershberger
+@Date:   27-03-2017
+@Filename: to_do.txt
+@Last modified by:   Justin Hershberger
+@Last modified time: 29-03-2017
+
+
+
+##########################################################
+    To Do: Week 3/27 - 4/2
+##########################################################
+1) find which values are actually useful to us
+2) request from more sources
+3) figure out how to use the data from multiple sources to get useful info
+4) store the data to some form of db
+5) research prediction models
+6) gather the information from the hardware we are going to use.
+7) use the info from the sensors to tie into solar radiation and in turn
+    come up with an energy output prediction
+8) develop a simple user interface to display the results

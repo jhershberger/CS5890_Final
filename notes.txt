@@ -1,0 +1,17 @@
+@Author: Justin Hershberger
+@Date:   29-03-2017
+@Filename: notes.txt
+@Last modified by:   Justin Hershberger
+@Last modified time: 29-03-2017
+
+
+
+Measurements of solar radiation converted to energy:
+  http://pveducation.org/pvcdrom/appendices/units-and-conversions
+
+
+Annual solar energy output formula breakdown:
+  photovoltaic-software.com/PV-solar-energy-calculation.php
+
+Download a shit load of solar data but only goes to 2012:
+  https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/solar-radiation
