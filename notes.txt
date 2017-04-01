@@ -2,7 +2,7 @@
 @Date:   29-03-2017
 @Filename: notes.txt
 @Last modified by:   Justin Hershberger
-@Last modified time: 29-03-2017
+@Last modified time: 01-04-2017
 
 
 
@@ -15,3 +15,49 @@ Annual solar energy output formula breakdown:
 
 Download a shit load of solar data but only goes to 2012:
   https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/solar-radiation
+
+PyMongo
+  to start up the mongo server: in cmd.exe run "C:/ProgramFiles/Mongodb/Server/3.4/bin/mongod.exe"
+
+  to start the mongo shell: "C:/ProgramFiles/Mongodb/Server/3.4/bin/mongo.exe"
+
+  use 'CS5890_Solar' to switch to the correct db
+
+  use db.daily_solar.find() to see all the data in the daily_solar collection
+
+  you can use MongoClient to connect to an instance of mongo, you can choose which db and collection
+  to connect to.
+
+  To insert data, you need an id for the data. you can use insert_one() or insert_many()
+
+  To query data, you can use find()
+
+  To sort query results, use sort()
+
+  To update pre-existing data, use update_one() or update_many()
+
+  To remove data, use delete_one() or delete_many()
+
+Django
+  to start a django project: django-admin startproject sitename
+
+  to start the server for our new django project, cd into the project and type:
+    python manage.py runserver
+
+  to specify the port number to run at:
+    python manage.py runserver Port
+
+  the server automatically reloads on changes
+
+  to create a new app directory:
+    python manage.py startapp newapp
+    this will create a newapp director with models.py, views.py, app.py, etc
+
+  to create a view, we can define it in views.py but in order to see the view,
+    we need to map it to a url in newapp/urls.py and in the root directory using include()
+
+  setting up mongod as django default db:
+    http://django-mongodb-engine.readthedocs.io/en/latest/topics/setup.html
+
+  setting up the django project:
+    https://docs.djangoproject.com/en/1.10/intro/tutorial01/

@@ -39,8 +39,15 @@ def usu_climate_api():
         print el,solar[el]
 
         #this inserts the solar radiation for the day to mongo
-        result = Post(source="Utah Climate Center",date=el, solar_radiation=solar[el], station=1266802)
-        result.save()
+        result = db.daily_solar.insert_one(
+            {
+                el: {
+                    "Source": "Utah Climate Center",
+                    "StationID": "1266802",
+                    "Solar Radiation": solar[el]
+                }
+            }
+        )
 
 def noaa_api():
     # this url will get the dataset for the Logan, Ut station
