@@ -2,16 +2,18 @@
 @Date:   27-03-2017
 @Filename: to_do.txt
 @Last modified by:   Justin Hershberger
-@Last modified time: 01-04-2017
+@Last modified time: 02-04-2017
 
 
 
 ##########################################################
     To Do: Week 3/27 - 4/2
 ##########################################################
-1) create another view and link the dates on the index to a view of the data for that date
+1) make a form for the user to enter in their panel's info
 2) research prediction models
 3) gather the information from the hardware we are going to use.
 4) use the info from the sensors to tie into solar radiation and in turn
     come up with an energy output prediction
 5) develop a simple user interface to display the results
+6) find correlations between live data as well as other weather sources and solar radiation to
+  predict energy output

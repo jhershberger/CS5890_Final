@@ -2,7 +2,7 @@
 # @Date:   27-03-2017
 # @Filename: data.py
 # @Last modified by:   Justin Hershberger
-# @Last modified time: 01-04-2017
+# @Last modified time: 02-04-2017
 
 
 
@@ -39,8 +39,14 @@ def usu_climate_api():
         print el,solar[el]
 
         #this inserts the solar radiation for the day to mongo
-        result = Post(source="Utah Climate Center",date=el, solar_radiation=solar[el], station=1266802)
-        result.save()
+        result = db.display_solar_post.insert_one(
+            {
+                    "date": el,
+                    "source": "Utah Climate Center",
+                    "station": "1266802",
+                    "solar_radiation": solar[el]
+            }
+        )
 
 def noaa_api():
     # this url will get the dataset for the Logan, Ut station

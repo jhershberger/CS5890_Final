@@ -1,7 +1,7 @@
 <!--
 @Author: Justin Hershberger
-@Date:   01-04-2017
-@Filename: index.html
+@Date:   02-04-2017
+@Filename: data.html
 @Last modified by:   Justin Hershberger
 @Last modified time: 02-04-2017
 -->
@@ -14,15 +14,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CS5890 Final</title>
-    {% load static %}
-    <link rel="stylesheet" href="{% static "display_solar/styles.css" %}">
-    <!-- Bootstrap -->
+    <title>Data</title>
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -32,36 +28,54 @@
     <div class="panel panel-primary">
       <div class="panel-heading">
       </div>
-      <div class="panel-body solar-data">
-        <h1>Solar Data For Logan, UT:</h1>
+      <div class="panel-body">
         <div class="row">
-          <div class="col-md-4">
-            <form action="{% url 'post' %}" method="post">
-              <input type="submit" value="Add Yesterday" />
-              {% csrf_token %}
-            </form>
+          <div class="col col-md-6">
+            <h2> {{ post.date }} </h2>
           </div>
         </div>
         <div class="row">
-          <div class="col col-md-4">
-            <h3>Date:</h3>
-          </div>
-        </div>
-          {% for post in solar_data %}
-          <div class="row">
           <div class="col-md-4">
-            <a href="{% url 'data' post.id %}">
-              {{ post.date }}
-            </a>
+            * The energy calculation assumes a panel with:
           </div>
         </div>
-          {% endfor %}
+        <div class="row">
+          <div class="col-md-4">
+            Area: 1.6354806 m^2
+          </div>
+          <div class="col-md-4">
+            Production: 250 Wp
+          </div>
+          <div class="col-md-4">
+            Loss: 0.75
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <h4> Source </h4>
+          </div>
+          <div class="col-md-4">
+            <h4> Solar Radiation </h4>
+          </div>
+          <div class="col-md-4">
+            <h4> Energy Output </h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            {{ post.source }}
+          </div>
+          <div class="col-md-4">
+            {{ post.solar_radiation }} mJ/m^2
+          </div>
+          <div class="col-md-4">
+            {{ energy }} kWh
+          </div>
+        </div>
       </div>
     </div>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
   </body>
 </html>
