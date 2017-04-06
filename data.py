@@ -2,7 +2,7 @@
 # @Date:   27-03-2017
 # @Filename: data.py
 # @Last modified by:   Justin Hershberger
-# @Last modified time: 02-04-2017
+# @Last modified time: 05-04-2017
 
 
 
@@ -22,6 +22,7 @@ today = str(datetime.today().date())
 yesterday = str((datetime.today() - timedelta(1)).date())
 
 def usu_climate_api():
+    total = 0
     url = "https://climate.usurf.usu.edu/API/api.php/v1/key=TESTKEY/stationSrch/stationId=1266802/getDaily/startDate=" + yesterday + "/endDate="+ today +"/units=english"
     r = requests.get(url)
     jsn = r.json()
@@ -32,21 +33,23 @@ def usu_climate_api():
         if key == 'payload':
             for ky in jsn[key]:
                 if 'solarmj' in ky:
-                    # print(ky['solarmj'])
+                    # print(ky['solar'])
                     solar[ky['date_time']] = ky['solarmj']
 
     for el in solar:
         print el,solar[el]
+        total += float(solar[el])
 
         #this inserts the solar radiation for the day to mongo
-        result = db.display_solar_post.insert_one(
-            {
-                    "date": el,
-                    "source": "Utah Climate Center",
-                    "station": "1266802",
-                    "solar_radiation": solar[el]
-            }
-        )
+        # result = db.display_solar_post.insert_one(
+        #     {
+        #             "date": el,
+        #             "source": "Utah Climate Center",
+        #             "station": "1266802",
+        #             "solar_radiation": solar[el]
+        #     }
+        # )
+    print total
 
 def noaa_api():
     # this url will get the dataset for the Logan, Ut station
@@ -78,7 +81,7 @@ def nrel_api():
     print r.json()
 
 
-# usu_climate_api()
-noaa_api()
+usu_climate_api()
+# noaa_api()
 # openweather_api()
 # nrel_api()

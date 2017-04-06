@@ -2,7 +2,7 @@
 @Date:   27-03-2017
 @Filename: to_do.txt
 @Last modified by:   Justin Hershberger
-@Last modified time: 02-04-2017
+@Last modified time: 03-04-2017
 
 
 
@@ -17,3 +17,4 @@
 5) develop a simple user interface to display the results
 6) find correlations between live data as well as other weather sources and solar radiation to
   predict energy output
+7) get hourly data for solar radiation
