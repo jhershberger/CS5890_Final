@@ -12,6 +12,7 @@ from django.template import Context, Template, loader
 from models import Post
 from datetime import datetime, timedelta
 from django.views.decorators.csrf import csrf_exempt
+from operator import itemgetter
 import requests
 
 # Create your views here.
@@ -39,7 +40,7 @@ def data(request, post_id):
 @csrf_exempt
 def postDay(request):
     today = str((datetime.today()).date())
-    yesterday = str((datetime.today() - timedelta(1)).date())
+    yesterday = str((datetime.today() - timedelta(2)).date())
     try:
         p = Post.objects.get(date=yesterday + ' 23:59:59')
     except Post.DoesNotExist: # if the date isn't in the database then add it
@@ -56,8 +57,8 @@ def postHourly(yesterday, today):
     r = requests.get(url)
     jsn = r.json()
     solar = {}
-    day_hr = {}
-    day_hr_watt = {}
+    day_hr = []
+    day_hr_watt = []
     solar_watts = {}
     # this gets the solar radiaion for each day
     for key in jsn:
@@ -70,18 +71,25 @@ def postHourly(yesterday, today):
                     for el in solar:
                         # print el,solar[el]
                         day = datetime.strptime(el, '%Y-%m-%d %H:%M:%S')
-                        day_hr[el] = solar[el] + '<br>'
+                        day_hr.append([datetime.strftime(day, '%H:%M:%S'), str(solar[el]) + '<br>'])
                         #this inserts the solar radiation for the day to mongo
                 if 'solar' in ky:
                     solar_watts[ky['date_time']] = ky['solar']
 
                     for el in solar_watts:
                         # print el,solar[el]
-                        # day = datetime.strptime(el, '%Y-%m-%d %H:%M:%S')
-                        day_hr_watt[el] = solar_watts[el] + '<br>'
+                        day = datetime.strptime(el, '%Y-%m-%d %H:%M:%S')
+                        day_hr_watt.append([datetime.strftime(day, '%H:%M:%S'), str(solar_watts[el]) + '<br>'])
+
+    #this gets a sorted version of the hourly breakdowns
+    new_day_hr = list()
+    new_day_hr_watts = list()
+    map(lambda x: not x in new_day_hr and new_day_hr.append(x), day_hr)
+    map(lambda x: not x in new_day_hr_watts and new_day_hr_watts.append(x), day_hr_watt)
+
     result = Post.objects.create(
-        date_hr_mj = day_hr.items(),
-        date_hr_watt = day_hr_watt.items(),
+        date_hr_mj = new_day_hr,
+        date_hr_watt = new_day_hr_watts,
         date= datetime.strftime(day, '%Y-%m-%d'),
         source= "Utah Climate Center",
         station= "1266802",
