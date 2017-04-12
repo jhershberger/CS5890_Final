@@ -2,7 +2,7 @@
 # @Date:   27-03-2017
 # @Filename: data.py
 # @Last modified by:   Justin Hershberger
-# @Last modified time: 05-04-2017
+# @Last modified time: 09-04-2017
 
 
 
@@ -18,12 +18,12 @@ client = MongoClient()
 db = client.CS5890_Solar
 
 # this gets today's date and yesterday's so we can get yesterday's data each day
-today = str(datetime.today().date())
-yesterday = str((datetime.today() - timedelta(1)).date())
+today = str((datetime.today() - timedelta(2)).date())
+yesterday = str((datetime.today() - timedelta(3)).date())
 
 def usu_climate_api():
     total = 0
-    url = "https://climate.usurf.usu.edu/API/api.php/v1/key=TESTKEY/stationSrch/stationId=1266802/getDaily/startDate=" + yesterday + "/endDate="+ today +"/units=english"
+    url = "https://climate.usurf.usu.edu/API/api.php/v1/key=TESTKEY/stationSrch/stationId=1266802/getHourly/startDate=" + yesterday + "/endDate="+ today +"/units=english"
     r = requests.get(url)
     jsn = r.json()
     solar = {}
@@ -37,7 +37,9 @@ def usu_climate_api():
                     solar[ky['date_time']] = ky['solarmj']
 
     for el in solar:
+        day = datetime.strptime(el, '%Y-%m-%d %H:%M:%S')
         print el,solar[el]
+        print "Day: ", datetime.strftime(day, '%Y-%m-%d')
         total += float(solar[el])
 
         #this inserts the solar radiation for the day to mongo

@@ -3,7 +3,7 @@
 @Date:   02-04-2017
 @Filename: data.html
 @Last modified by:   Justin Hershberger
-@Last modified time: 04-04-2017
+@Last modified time: 10-04-2017
 -->
 
 
@@ -72,6 +72,24 @@
             {{ energy }} kWh
           </div>
         </div>
+        <div class = "row">
+          <div class="col-md-6">
+            <h2> Hourly Data in Mj </h2>
+          </div>
+          <div class="col-md-6">
+            <h2> Hourly Data in Watts</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            {{ post.date_hr_mj |safe }}
+          </div>
+          <div class="col-md-6">
+            {{ post.date_hr_watt |safe }}
+          </div>
+        </div>
+        <!-- {% for pst in posts %}
+        {% endfor %} -->
       </div>
     </div>
 

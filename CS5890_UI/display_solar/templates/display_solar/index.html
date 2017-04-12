@@ -3,7 +3,7 @@
 @Date:   01-04-2017
 @Filename: index.html
 @Last modified by:   Justin Hershberger
-@Last modified time: 02-04-2017
+@Last modified time: 09-04-2017
 -->
 
 
@@ -36,7 +36,7 @@
         <h1>Solar Data For Logan, UT:</h1>
         <div class="row">
           <div class="col-md-4">
-            <form action="{% url 'post' %}" method="post">
+            <form action="{% url 'postDay' %}" method="post">
               <input type="submit" value="Add Yesterday" />
               {% csrf_token %}
             </form>
