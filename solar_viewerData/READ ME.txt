@@ -1,0 +1,6 @@
+Name Format
+M-DD(H.MM-H.MM)
+
+Data Format
+HH:MM
+Reading 1: ####.## ohms

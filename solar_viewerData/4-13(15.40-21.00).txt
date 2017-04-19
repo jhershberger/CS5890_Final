@@ -1,0 +1,2899 @@
+3:40
+Reading 1: 1961.08 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2054.34 ohms
+Reading 4: 2918.98 ohms
+Reading 5: 1799.59 ohms
+Reading 6: 2111.56 ohms
+Reading 7: 2101.96 ohms
+Reading 8: 2238.96 ohms
+
+Reading 1: 1571.61 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1645.79 ohms
+Reading 4: 2219.05 ohms
+Reading 5: 1483.27 ohms
+Reading 6: 1721.77 ohms
+Reading 7: 1687.78 ohms
+Reading 8: 1799.59 ohms
+
+Reading 1: 1083.59 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1146.55 ohms
+Reading 4: 1374.41 ohms
+Reading 5: 1083.59 ohms
+Reading 6: 1203.69 ohms
+Reading 7: 1160.73 ohms
+Reading 8: 1254.62 ohms
+
+Reading 1: 1351.58 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1436.14 ohms
+Reading 4: 1879.34 ohms
+Reading 5: 1313.91 ohms
+Reading 6: 1499.15 ohms
+Reading 7: 1467.48 ohms
+Reading 8: 1571.61 ohms
+
+Reading 1: 1459.61 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1539.19 ohms
+Reading 4: 2054.34 ohms
+Reading 5: 1405.11 ohms
+Reading 6: 1612.61 ohms
+Reading 7: 1571.61 ohms
+Reading 8: 1704.73 ohms
+
+Reading 1: 1531.14 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1612.61 ohms
+Reading 4: 2179.57 ohms
+Reading 5: 1459.61 ohms
+Reading 6: 1696.24 ohms
+Reading 7: 1662.52 ohms
+Reading 8: 1790.85 ohms
+
+Reading 1: 1612.61 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1704.73 ohms
+Reading 4: 2330.00 ohms
+Reading 5: 1539.19 ohms
+Reading 6: 1782.14 ohms
+Reading 7: 1738.90 ohms
+Reading 8: 1870.38 ohms
+
+Reading 1: 988.32 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1035.55 ohms
+Reading 4: 1189.30 ohms
+Reading 5: 974.96 ohms
+Reading 6: 1076.68 ohms
+Reading 7: 1035.55 ohms
+Reading 8: 1104.43 ohms
+
+Reading 1: 1196.49 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1276.71 ohms
+Reading 4: 1596.14 ohms
+Reading 5: 1189.30 ohms
+Reading 6: 1336.45 ohms
+Reading 7: 1313.91 ohms
+Reading 8: 1420.59 ohms
+
+Reading 1: 1515.10 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1579.76 ohms
+Reading 4: 2121.20 ohms
+Reading 5: 1443.94 ohms
+Reading 6: 1637.46 ohms
+Reading 7: 1612.61 ohms
+Reading 8: 1730.32 ohms
+
+Reading 1: 1670.92 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1756.12 ohms
+Reading 4: 2412.97 ohms
+Reading 5: 1563.47 ohms
+Reading 6: 1817.15 ohms
+Reading 7: 1747.50 ohms
+Reading 8: 1870.38 ohms
+
+Reading 1: 1721.77 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1764.77 ohms
+Reading 4: 2476.50 ohms
+Reading 5: 1604.36 ohms
+Reading 6: 1808.36 ohms
+Reading 7: 1764.77 ohms
+Reading 8: 1897.33 ohms
+
+Reading 1: 1321.41 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1382.05 ohms
+Reading 4: 1790.85 ohms
+Reading 5: 1284.11 ohms
+Reading 6: 1428.35 ohms
+Reading 7: 1405.11 ohms
+Reading 8: 1523.11 ohms
+
+Reading 1: 981.63 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1547.27 ohms
+Reading 4: 1182.13 ohms
+Reading 5: 981.63 ohms
+Reading 6: 1049.20 ohms
+Reading 7: 1021.98 ohms
+Reading 8: 1111.40 ohms
+
+Reading 1: 981.63 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1596.14 ohms
+Reading 4: 1189.30 ohms
+Reading 5: 968.31 ohms
+Reading 6: 1049.20 ohms
+Reading 7: 1015.21 ohms
+Reading 8: 1104.43 ohms
+
+Reading 1: 981.63 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1028.76 ohms
+Reading 4: 1182.13 ohms
+Reading 5: 981.63 ohms
+Reading 6: 1042.37 ohms
+Reading 7: 1028.76 ohms
+Reading 8: 1097.46 ohms
+
+Reading 1: 974.96 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1015.21 ohms
+Reading 4: 1196.49 ohms
+Reading 5: 974.96 ohms
+Reading 6: 1042.37 ohms
+Reading 7: 1035.55 ohms
+Reading 8: 1125.41 ohms
+
+Reading 1: 974.96 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1021.98 ohms
+Reading 4: 1196.49 ohms
+Reading 5: 981.63 ohms
+Reading 6: 1076.68 ohms
+Reading 7: 1069.78 ohms
+Reading 8: 1189.30 ohms
+
+Reading 1: 1539.19 ohms
+Reading 2: 696.38 ohms
+Reading 3: 1612.61 ohms
+Reading 4: 2199.25 ohms
+Reading 5: 1475.37 ohms
+Reading 6: 1654.15 ohms
+Reading 7: 1629.16 ohms
+Reading 8: 1764.77 ohms
+
+Reading 1: 1405.11 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1483.27 ohms
+Reading 4: 1970.29 ohms
+Reading 5: 1374.41 ohms
+Reading 6: 1523.11 ohms
+Reading 7: 1515.10 ohms
+Reading 8: 1620.87 ohms
+
+Reading 1: 1596.14 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1670.92 ohms
+Reading 4: 2289.24 ohms
+Reading 5: 1499.15 ohms
+Reading 6: 1696.24 ohms
+Reading 7: 1662.52 ohms
+Reading 8: 1764.77 ohms
+
+Reading 1: 995.02 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1069.78 ohms
+Reading 4: 1313.91 ohms
+Reading 5: 1042.37 ohms
+Reading 6: 1125.41 ohms
+Reading 7: 1104.43 ohms
+Reading 8: 1210.91 ohms
+
+Reading 1: 1687.78 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1738.90 ohms
+Reading 4: 2434.02 ohms
+Reading 5: 1571.61 ohms
+Reading 6: 1764.77 ohms
+Reading 7: 1721.77 ohms
+Reading 8: 1843.66 ohms
+
+Reading 1: 1587.94 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1645.79 ohms
+Reading 4: 2258.98 ohms
+Reading 5: 1491.20 ohms
+Reading 6: 1679.34 ohms
+Reading 7: 1645.79 ohms
+Reading 8: 1764.77 ohms
+
+Reading 1: 1001.73 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1069.78 ohms
+Reading 4: 1298.97 ohms
+Reading 5: 1083.59 ohms
+Reading 6: 1174.98 ohms
+Reading 7: 1125.41 ohms
+Reading 8: 1182.13 ohms
+
+Reading 1: 1008.47 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1090.52 ohms
+Reading 4: 1313.91 ohms
+Reading 5: 1062.91 ohms
+Reading 6: 1210.91 ohms
+Reading 7: 1196.49 ohms
+Reading 8: 1284.11 ohms
+
+Reading 1: 1397.41 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1459.61 ohms
+Reading 4: 1933.61 ohms
+Reading 5: 1344.00 ohms
+Reading 6: 1499.15 ohms
+Reading 7: 1467.48 ohms
+Reading 8: 1587.94 ohms
+
+Reading 1: 1015.21 ohms
+Reading 2: 702.41 ohms
+Reading 3: 1090.52 ohms
+Reading 4: 1328.92 ohms
+Reading 5: 1083.59 ohms
+Reading 6: 1189.30 ohms
+Reading 7: 1160.73 ohms
+Reading 8: 1218.15 ohms
+
+Reading 1: 1042.37 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1182.13 ohms
+Reading 4: 1459.61 ohms
+Reading 5: 1118.40 ohms
+Reading 6: 1232.68 ohms
+Reading 7: 1132.44 ohms
+Reading 8: 1182.13 ohms
+
+Reading 1: 1344.00 ohms
+Reading 2: 702.41 ohms
+Reading 3: 1420.59 ohms
+Reading 4: 1879.34 ohms
+Reading 5: 1313.91 ohms
+Reading 6: 1459.61 ohms
+Reading 7: 1428.35 ohms
+Reading 8: 1539.19 ohms
+
+Reading 1: 1174.98 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1344.00 ohms
+Reading 4: 1679.34 ohms
+Reading 5: 1125.41 ohms
+Reading 6: 1146.55 ohms
+Reading 7: 1056.04 ohms
+Reading 8: 1111.40 ohms
+
+Reading 1: 1062.91 ohms
+Reading 2: 696.38 ohms
+Reading 3: 1239.98 ohms
+Reading 4: 1604.36 ohms
+Reading 5: 1203.69 ohms
+Reading 6: 1254.62 ohms
+Reading 7: 1153.63 ohms
+Reading 8: 1196.49 ohms
+
+Reading 1: 1210.91 ohms
+Reading 2: 696.38 ohms
+Reading 3: 1232.68 ohms
+Reading 4: 1539.19 ohms
+Reading 5: 1118.40 ohms
+Reading 6: 1167.85 ohms
+Reading 7: 1083.59 ohms
+Reading 8: 1167.85 ohms
+
+Reading 1: 1125.41 ohms
+Reading 2: 702.41 ohms
+Reading 3: 1167.85 ohms
+Reading 4: 1412.84 ohms
+Reading 5: 1111.40 ohms
+Reading 6: 1189.30 ohms
+Reading 7: 1132.44 ohms
+Reading 8: 1232.68 ohms
+
+Reading 1: 1139.49 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1174.98 ohms
+Reading 4: 1507.12 ohms
+Reading 5: 1139.49 ohms
+Reading 6: 1247.29 ohms
+Reading 7: 1160.73 ohms
+Reading 8: 1254.62 ohms
+
+Reading 1: 1225.41 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1405.11 ohms
+Reading 4: 1817.15 ohms
+Reading 5: 1232.68 ohms
+Reading 6: 1366.78 ohms
+Reading 7: 1374.41 ohms
+Reading 8: 1507.12 ohms
+
+Reading 1: 1713.24 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1808.36 ohms
+Reading 4: 2530.32 ohms
+Reading 5: 1620.87 ohms
+Reading 6: 1843.66 ohms
+Reading 7: 1834.80 ohms
+Reading 8: 1951.90 ohms
+
+Reading 1: 1523.11 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1612.61 ohms
+Reading 4: 2189.40 ohms
+Reading 5: 1459.61 ohms
+Reading 6: 1645.79 ohms
+Reading 7: 1629.16 ohms
+Reading 8: 1747.50 ohms
+
+Reading 1: 1182.13 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1254.62 ohms
+Reading 4: 1499.15 ohms
+Reading 5: 1076.68 ohms
+Reading 6: 1167.85 ohms
+Reading 7: 1203.69 ohms
+Reading 8: 1359.17 ohms
+
+Reading 1: 1189.30 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1225.41 ohms
+Reading 4: 1555.36 ohms
+Reading 5: 1111.40 ohms
+Reading 6: 1247.29 ohms
+Reading 7: 1276.71 ohms
+Reading 8: 1405.11 ohms
+
+Reading 1: 1351.58 ohms
+Reading 2: 702.41 ohms
+Reading 3: 1451.77 ohms
+Reading 4: 1933.61 ohms
+Reading 5: 1313.91 ohms
+Reading 6: 1491.20 ohms
+Reading 7: 1491.20 ohms
+Reading 8: 1612.61 ohms
+
+Reading 1: 1167.85 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1306.43 ohms
+Reading 4: 1696.24 ohms
+Reading 5: 1291.54 ohms
+Reading 6: 1451.77 ohms
+Reading 7: 1313.91 ohms
+Reading 8: 1397.41 ohms
+
+Reading 1: 1261.96 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1491.20 ohms
+Reading 4: 1951.90 ohms
+Reading 5: 1247.29 ohms
+Reading 6: 1336.45 ohms
+Reading 7: 1261.96 ohms
+Reading 8: 1412.84 ohms
+
+Reading 1: 1359.17 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1547.27 ohms
+Reading 4: 1951.90 ohms
+Reading 5: 1276.71 ohms
+Reading 6: 1374.41 ohms
+Reading 7: 1344.00 ohms
+Reading 8: 1428.35 ohms
+
+Reading 1: 1764.77 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1834.80 ohms
+Reading 4: 2584.95 ohms
+Reading 5: 1645.79 ohms
+Reading 6: 1888.32 ohms
+Reading 7: 1852.54 ohms
+Reading 8: 1998.07 ohms
+
+Reading 1: 1499.15 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1467.48 ohms
+Reading 4: 1834.80 ohms
+Reading 5: 1225.41 ohms
+Reading 6: 1336.45 ohms
+Reading 7: 1291.54 ohms
+Reading 8: 1443.94 ohms
+
+Reading 1: 1459.61 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1475.37 ohms
+Reading 4: 1870.38 ohms
+Reading 5: 1269.33 ohms
+Reading 6: 1374.41 ohms
+Reading 7: 1382.05 ohms
+Reading 8: 1547.27 ohms
+
+Reading 1: 1284.11 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1254.62 ohms
+Reading 4: 1459.61 ohms
+Reading 5: 1104.43 ohms
+Reading 6: 1218.15 ohms
+Reading 7: 1203.69 ohms
+Reading 8: 1382.05 ohms
+
+Reading 1: 1203.69 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1298.97 ohms
+Reading 4: 1629.16 ohms
+Reading 5: 1254.62 ohms
+Reading 6: 1366.78 ohms
+Reading 7: 1321.41 ohms
+Reading 8: 1412.84 ohms
+
+Reading 1: 1261.96 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1389.72 ohms
+Reading 4: 1970.29 ohms
+Reading 5: 1359.17 ohms
+Reading 6: 1467.48 ohms
+Reading 7: 1397.41 ohms
+Reading 8: 1539.19 ohms
+
+Reading 1: 1306.43 ohms
+Reading 2: 702.41 ohms
+Reading 3: 1491.20 ohms
+Reading 4: 1988.79 ohms
+Reading 5: 1382.05 ohms
+Reading 6: 1515.10 ohms
+Reading 7: 1359.17 ohms
+Reading 8: 1336.45 ohms
+
+Reading 1: 1351.58 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1475.37 ohms
+Reading 4: 1979.53 ohms
+Reading 5: 1232.68 ohms
+Reading 6: 1284.11 ohms
+Reading 7: 1153.63 ohms
+Reading 8: 1225.41 ohms
+
+Reading 1: 1679.34 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1747.50 ohms
+Reading 4: 2412.97 ohms
+Reading 5: 1571.61 ohms
+Reading 6: 1790.85 ohms
+Reading 7: 1764.77 ohms
+Reading 8: 1906.36 ohms
+
+Reading 1: 1405.11 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1405.11 ohms
+Reading 4: 1808.36 ohms
+Reading 5: 1218.15 ohms
+Reading 6: 1321.41 ohms
+Reading 7: 1254.62 ohms
+Reading 8: 1291.54 ohms
+
+Reading 1: 1412.84 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1374.41 ohms
+Reading 4: 1696.24 ohms
+Reading 5: 1139.49 ohms
+Reading 6: 1225.41 ohms
+Reading 7: 1160.73 ohms
+Reading 8: 1239.98 ohms
+
+Reading 1: 1721.77 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1773.44 ohms
+Reading 4: 2455.19 ohms
+Reading 5: 1596.14 ohms
+Reading 6: 1808.36 ohms
+Reading 7: 1764.77 ohms
+Reading 8: 1897.33 ohms
+
+Reading 1: 1596.14 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1670.92 ohms
+Reading 4: 2279.13 ohms
+Reading 5: 1507.12 ohms
+Reading 6: 1696.24 ohms
+Reading 7: 1662.52 ohms
+Reading 8: 1799.59 ohms
+
+Reading 1: 1507.12 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1555.36 ohms
+Reading 4: 2092.38 ohms
+Reading 5: 1420.59 ohms
+Reading 6: 1587.94 ohms
+Reading 7: 1555.36 ohms
+Reading 8: 1687.78 ohms
+
+Reading 1: 1555.36 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1637.46 ohms
+Reading 4: 2219.05 ohms
+Reading 5: 1475.37 ohms
+Reading 6: 1645.79 ohms
+Reading 7: 1604.36 ohms
+Reading 8: 1730.32 ohms
+
+Reading 1: 1189.30 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1182.13 ohms
+Reading 4: 1436.14 ohms
+Reading 5: 1153.63 ohms
+Reading 6: 1218.15 ohms
+Reading 7: 1182.13 ohms
+Reading 8: 1232.68 ohms
+
+Reading 1: 1042.37 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1111.40 ohms
+Reading 4: 1420.59 ohms
+Reading 5: 1104.43 ohms
+Reading 6: 1146.55 ohms
+Reading 7: 1076.68 ohms
+Reading 8: 1146.55 ohms
+
+Reading 1: 1090.52 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1210.91 ohms
+Reading 4: 1491.20 ohms
+Reading 5: 1049.20 ohms
+Reading 6: 1111.40 ohms
+Reading 7: 1090.52 ohms
+Reading 8: 1210.91 ohms
+
+Reading 1: 1451.77 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1547.27 ohms
+Reading 4: 2073.31 ohms
+Reading 5: 1366.78 ohms
+Reading 6: 1515.10 ohms
+Reading 7: 1467.48 ohms
+Reading 8: 1571.61 ohms
+
+Reading 1: 1428.35 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1467.48 ohms
+Reading 4: 1825.96 ohms
+Reading 5: 1276.71 ohms
+Reading 6: 1397.41 ohms
+Reading 7: 1382.05 ohms
+Reading 8: 1483.27 ohms
+
+Reading 1: 1160.73 ohms
+Reading 2: 732.74 ohms
+Reading 3: 1160.73 ohms
+Reading 4: 1374.41 ohms
+Reading 5: 1049.20 ohms
+Reading 6: 1132.44 ohms
+Reading 7: 1076.68 ohms
+Reading 8: 1182.13 ohms
+
+Reading 1: 1139.49 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1210.91 ohms
+Reading 4: 1405.11 ohms
+Reading 5: 1042.37 ohms
+Reading 6: 1111.40 ohms
+Reading 7: 1090.52 ohms
+Reading 8: 1218.15 ohms
+
+Reading 1: 1637.46 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1704.73 ohms
+Reading 4: 2340.26 ohms
+Reading 5: 1531.14 ohms
+Reading 6: 1721.77 ohms
+Reading 7: 1670.92 ohms
+Reading 8: 1790.85 ohms
+
+Reading 1: 1637.46 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1704.73 ohms
+Reading 4: 2360.88 ohms
+Reading 5: 1531.14 ohms
+Reading 6: 1747.50 ohms
+Reading 7: 1687.78 ohms
+Reading 8: 1825.96 ohms
+
+Reading 1: 1049.20 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1132.44 ohms
+Reading 4: 1483.27 ohms
+Reading 5: 1153.63 ohms
+Reading 6: 1239.98 ohms
+Reading 7: 1132.44 ohms
+Reading 8: 1167.85 ohms
+
+Reading 1: 1069.78 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1210.91 ohms
+Reading 4: 1523.11 ohms
+Reading 5: 1090.52 ohms
+Reading 6: 1139.49 ohms
+Reading 7: 1104.43 ohms
+Reading 8: 1269.33 ohms
+
+Reading 1: 1218.15 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1284.11 ohms
+Reading 4: 1596.14 ohms
+Reading 5: 1118.40 ohms
+Reading 6: 1284.11 ohms
+Reading 7: 1313.91 ohms
+Reading 8: 1515.10 ohms
+
+Reading 1: 1351.58 ohms
+Reading 2: 732.74 ohms
+Reading 3: 1321.41 ohms
+Reading 4: 1696.24 ohms
+Reading 5: 1336.45 ohms
+Reading 6: 1507.12 ohms
+Reading 7: 1291.54 ohms
+Reading 8: 1306.43 ohms
+
+Reading 1: 1313.91 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1443.94 ohms
+Reading 4: 2007.38 ohms
+Reading 5: 1254.62 ohms
+Reading 6: 1306.43 ohms
+Reading 7: 1210.91 ohms
+Reading 8: 1336.45 ohms
+
+Reading 1: 1336.45 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1563.47 ohms
+Reading 4: 1924.50 ohms
+Reading 5: 1261.96 ohms
+Reading 6: 1374.41 ohms
+Reading 7: 1344.00 ohms
+Reading 8: 1555.36 ohms
+
+Reading 1: 1539.19 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1547.27 ohms
+Reading 4: 2140.54 ohms
+Reading 5: 1491.20 ohms
+Reading 6: 1679.34 ohms
+Reading 7: 1547.27 ohms
+Reading 8: 1654.15 ohms
+
+Reading 1: 1629.16 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1721.77 ohms
+Reading 4: 2360.88 ohms
+Reading 5: 1523.11 ohms
+Reading 6: 1721.77 ohms
+Reading 7: 1645.79 ohms
+Reading 8: 1713.24 ohms
+
+Reading 1: 1547.27 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1730.32 ohms
+Reading 4: 2392.04 ohms
+Reading 5: 1539.19 ohms
+Reading 6: 1747.50 ohms
+Reading 7: 1645.79 ohms
+Reading 8: 1571.61 ohms
+
+Reading 1: 1523.11 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1670.92 ohms
+Reading 4: 2269.04 ohms
+Reading 5: 1428.35 ohms
+Reading 6: 1499.15 ohms
+Reading 7: 1412.84 ohms
+Reading 8: 1491.20 ohms
+
+Reading 1: 1604.36 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1579.76 ohms
+Reading 4: 1951.90 ohms
+Reading 5: 1254.62 ohms
+Reading 6: 1397.41 ohms
+Reading 7: 1284.11 ohms
+Reading 8: 1366.78 ohms
+
+Reading 1: 1645.79 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1555.36 ohms
+Reading 4: 1961.08 ohms
+Reading 5: 1218.15 ohms
+Reading 6: 1405.11 ohms
+Reading 7: 1351.58 ohms
+Reading 8: 1467.48 ohms
+
+Reading 1: 1587.94 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1336.45 ohms
+Reading 4: 1587.94 ohms
+Reading 5: 1210.91 ohms
+Reading 6: 1397.41 ohms
+Reading 7: 1428.35 ohms
+Reading 8: 1451.77 ohms
+
+Reading 1: 1405.11 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1563.47 ohms
+Reading 4: 2150.26 ohms
+Reading 5: 1499.15 ohms
+Reading 6: 1764.77 ohms
+Reading 7: 1721.77 ohms
+Reading 8: 1852.54 ohms
+
+Reading 1: 1563.47 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1756.12 ohms
+Reading 4: 2455.19 ohms
+Reading 5: 1579.76 ohms
+Reading 6: 1799.59 ohms
+Reading 7: 1738.90 ohms
+Reading 8: 1879.34 ohms
+
+Reading 1: 1713.24 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1808.36 ohms
+Reading 4: 2519.49 ohms
+Reading 5: 1596.14 ohms
+Reading 6: 1843.66 ohms
+Reading 7: 1773.44 ohms
+Reading 8: 1906.36 ohms
+
+Reading 1: 1637.46 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1662.52 ohms
+Reading 4: 2350.56 ohms
+Reading 5: 1587.94 ohms
+Reading 6: 1852.54 ohms
+Reading 7: 1790.85 ohms
+Reading 8: 1915.42 ohms
+
+Reading 1: 1645.79 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1679.34 ohms
+Reading 4: 2392.04 ohms
+Reading 5: 1604.36 ohms
+Reading 6: 1825.96 ohms
+Reading 7: 1696.24 ohms
+Reading 8: 1808.36 ohms
+
+Reading 1: 1696.24 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1704.73 ohms
+Reading 4: 2319.77 ohms
+Reading 5: 1547.27 ohms
+Reading 6: 1790.85 ohms
+Reading 7: 1679.34 ohms
+Reading 8: 1852.54 ohms
+
+Reading 1: 1670.92 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1645.79 ohms
+Reading 4: 2209.14 ohms
+Reading 5: 1459.61 ohms
+Reading 6: 1620.87 ohms
+Reading 7: 1523.11 ohms
+Reading 8: 1587.94 ohms
+
+Reading 1: 1662.52 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1596.14 ohms
+Reading 4: 1970.29 ohms
+Reading 5: 1321.41 ohms
+Reading 6: 1459.61 ohms
+Reading 7: 1412.84 ohms
+Reading 8: 1491.20 ohms
+
+Reading 1: 1467.48 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1459.61 ohms
+Reading 4: 1906.36 ohms
+Reading 5: 1261.96 ohms
+Reading 6: 1397.41 ohms
+Reading 7: 1405.11 ohms
+Reading 8: 1420.59 ohms
+
+Reading 1: 1336.45 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1436.14 ohms
+Reading 4: 1756.12 ohms
+Reading 5: 1284.11 ohms
+Reading 6: 1428.35 ohms
+Reading 7: 1374.41 ohms
+Reading 8: 1467.48 ohms
+
+Reading 1: 1405.11 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1523.11 ohms
+Reading 4: 2130.85 ohms
+Reading 5: 1261.96 ohms
+Reading 6: 1451.77 ohms
+Reading 7: 1443.94 ohms
+Reading 8: 1571.61 ohms
+
+Reading 1: 1443.94 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1483.27 ohms
+Reading 4: 1843.66 ohms
+Reading 5: 1239.98 ohms
+Reading 6: 1382.05 ohms
+Reading 7: 1239.98 ohms
+Reading 8: 1291.54 ohms
+
+Reading 1: 1451.77 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1436.14 ohms
+Reading 4: 1870.38 ohms
+Reading 5: 1269.33 ohms
+Reading 6: 1459.61 ohms
+Reading 7: 1321.41 ohms
+Reading 8: 1382.05 ohms
+
+Reading 1: 1428.35 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1451.77 ohms
+Reading 4: 1906.36 ohms
+Reading 5: 1451.77 ohms
+Reading 6: 1571.61 ohms
+Reading 7: 1451.77 ohms
+Reading 8: 1451.77 ohms
+
+Reading 1: 1276.71 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1382.05 ohms
+Reading 4: 1764.77 ohms
+Reading 5: 1276.71 ohms
+Reading 6: 1351.58 ohms
+Reading 7: 1298.97 ohms
+Reading 8: 1428.35 ohms
+
+Reading 1: 1306.43 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1420.59 ohms
+Reading 4: 1870.38 ohms
+Reading 5: 1359.17 ohms
+Reading 6: 1547.27 ohms
+Reading 7: 1451.77 ohms
+Reading 8: 1687.78 ohms
+
+Reading 1: 1210.91 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1366.78 ohms
+Reading 4: 1924.50 ohms
+Reading 5: 1443.94 ohms
+Reading 6: 1756.12 ohms
+Reading 7: 1730.32 ohms
+Reading 8: 1764.77 ohms
+
+Reading 1: 1654.15 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1704.73 ohms
+Reading 4: 2228.99 ohms
+Reading 5: 1443.94 ohms
+Reading 6: 1747.50 ohms
+Reading 7: 1604.36 ohms
+Reading 8: 1738.90 ohms
+
+Reading 1: 1713.24 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1888.32 ohms
+Reading 4: 2455.19 ohms
+Reading 5: 1459.61 ohms
+Reading 6: 1799.59 ohms
+Reading 7: 1730.32 ohms
+Reading 8: 1951.90 ohms
+
+Reading 1: 1870.38 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1924.50 ohms
+Reading 4: 2674.12 ohms
+Reading 5: 1563.47 ohms
+Reading 6: 1747.50 ohms
+Reading 7: 1654.15 ohms
+Reading 8: 1696.24 ohms
+
+Reading 1: 1612.61 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1547.27 ohms
+Reading 4: 2026.09 ohms
+Reading 5: 1321.41 ohms
+Reading 6: 1515.10 ohms
+Reading 7: 1459.61 ohms
+Reading 8: 1587.94 ohms
+
+Reading 1: 1523.11 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1555.36 ohms
+Reading 4: 2054.34 ohms
+Reading 5: 1321.41 ohms
+Reading 6: 1475.37 ohms
+Reading 7: 1405.11 ohms
+Reading 8: 1523.11 ohms
+
+Reading 1: 1604.36 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1499.15 ohms
+Reading 4: 1951.90 ohms
+Reading 5: 1276.71 ohms
+Reading 6: 1443.94 ohms
+Reading 7: 1405.11 ohms
+Reading 8: 1499.15 ohms
+
+Reading 1: 1389.72 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1483.27 ohms
+Reading 4: 2007.38 ohms
+Reading 5: 1321.41 ohms
+Reading 6: 1475.37 ohms
+Reading 7: 1397.41 ohms
+Reading 8: 1555.36 ohms
+
+Reading 1: 1467.48 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1637.46 ohms
+Reading 4: 2189.40 ohms
+Reading 5: 1467.48 ohms
+Reading 6: 1654.15 ohms
+Reading 7: 1547.27 ohms
+Reading 8: 1637.46 ohms
+
+Reading 1: 1906.36 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2007.38 ohms
+Reading 4: 2871.09 ohms
+Reading 5: 1738.90 ohms
+Reading 6: 2026.09 ohms
+Reading 7: 1906.36 ohms
+Reading 8: 2035.48 ohms
+
+Reading 1: 1491.20 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1629.16 ohms
+Reading 4: 2179.57 ohms
+Reading 5: 1475.37 ohms
+Reading 6: 1756.12 ohms
+Reading 7: 1721.77 ohms
+Reading 8: 1906.36 ohms
+
+Reading 1: 1336.45 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1420.59 ohms
+Reading 4: 1799.59 ohms
+Reading 5: 1298.97 ohms
+Reading 6: 1483.27 ohms
+Reading 7: 1443.94 ohms
+Reading 8: 1696.24 ohms
+
+Reading 1: 1459.61 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1555.36 ohms
+Reading 4: 2054.34 ohms
+Reading 5: 1475.37 ohms
+Reading 6: 1834.80 ohms
+Reading 7: 1808.36 ohms
+Reading 8: 2026.09 ohms
+
+Reading 1: 2160.00 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2248.96 ohms
+Reading 4: 3298.56 ohms
+Reading 5: 1942.74 ohms
+Reading 6: 2279.13 ohms
+Reading 7: 2199.25 ohms
+Reading 8: 2330.00 ohms
+
+Reading 1: 2238.96 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2330.00 ohms
+Reading 4: 3433.68 ohms
+Reading 5: 2016.72 ohms
+Reading 6: 2360.88 ohms
+Reading 7: 2258.98 ohms
+Reading 8: 2402.49 ohms
+
+Reading 1: 2381.63 ohms
+Reading 2: 726.64 ohms
+Reading 3: 2423.48 ohms
+Reading 4: 3602.01 ohms
+Reading 5: 2073.31 ohms
+Reading 6: 2423.48 ohms
+Reading 7: 2319.77 ohms
+Reading 8: 2476.50 ohms
+
+Reading 1: 2552.07 ohms
+Reading 2: 702.41 ohms
+Reading 3: 2573.96 ohms
+Reading 4: 3898.67 ohms
+Reading 5: 2219.05 ohms
+Reading 6: 2584.95 ohms
+Reading 7: 2487.20 ohms
+Reading 8: 2640.43 ohms
+
+Reading 1: 2696.76 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2708.13 ohms
+Reading 4: 4119.34 ohms
+Reading 5: 2330.00 ohms
+Reading 6: 2730.98 ohms
+Reading 7: 2651.63 ohms
+Reading 8: 2800.38 ohms
+
+Reading 1: 2651.63 ohms
+Reading 2: 708.45 ohms
+Reading 3: 2696.76 ohms
+Reading 4: 4071.10 ohms
+Reading 5: 2309.56 ohms
+Reading 6: 2708.13 ohms
+Reading 7: 2651.63 ohms
+Reading 8: 2812.07 ohms
+
+Reading 1: 2219.05 ohms
+Reading 2: 732.74 ohms
+Reading 3: 2219.05 ohms
+Reading 4: 3285.30 ohms
+Reading 5: 1879.34 ohms
+Reading 6: 2228.99 ohms
+Reading 7: 2160.00 ohms
+Reading 8: 2319.77 ohms
+
+Reading 1: 1475.37 ohms
+Reading 2: 726.64 ohms
+Reading 3: 1555.36 ohms
+Reading 4: 2092.38 ohms
+Reading 5: 1451.77 ohms
+Reading 6: 1679.34 ohms
+Reading 7: 1654.15 ohms
+Reading 8: 1852.54 ohms
+
+Reading 1: 1817.15 ohms
+Reading 2: 708.45 ohms
+Reading 3: 1933.61 ohms
+Reading 4: 2708.13 ohms
+Reading 5: 1730.32 ohms
+Reading 6: 2035.48 ohms
+Reading 7: 1961.08 ohms
+Reading 8: 2111.56 ohms
+
+Reading 1: 2330.00 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2381.63 ohms
+Reading 4: 3531.03 ohms
+Reading 5: 2063.81 ohms
+Reading 6: 2412.97 ohms
+Reading 7: 2330.00 ohms
+Reading 8: 2497.93 ohms
+
+Reading 1: 1870.38 ohms
+Reading 2: 714.50 ohms
+Reading 3: 1979.53 ohms
+Reading 4: 2823.80 ohms
+Reading 5: 1825.96 ohms
+Reading 6: 2169.77 ohms
+Reading 7: 2150.26 ohms
+Reading 8: 2360.88 ohms
+
+Reading 1: 2541.18 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2573.96 ohms
+Reading 4: 3868.05 ohms
+Reading 5: 2209.14 ohms
+Reading 6: 2584.95 ohms
+Reading 7: 2497.93 ohms
+Reading 8: 2651.63 ohms
+
+Reading 1: 2618.14 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2651.63 ohms
+Reading 4: 4023.39 ohms
+Reading 5: 2289.24 ohms
+Reading 6: 2685.42 ohms
+Reading 7: 2618.14 ohms
+Reading 8: 2800.38 ohms
+
+Reading 1: 2340.26 ohms
+Reading 2: 726.64 ohms
+Reading 3: 2402.49 ohms
+Reading 4: 3573.47 ohms
+Reading 5: 2101.96 ohms
+Reading 6: 2444.59 ohms
+Reading 7: 2392.04 ohms
+Reading 8: 2519.49 ohms
+
+Reading 1: 1961.08 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2007.38 ohms
+Reading 4: 2788.72 ohms
+Reading 5: 1713.24 ohms
+Reading 6: 1879.34 ohms
+Reading 7: 1721.77 ohms
+Reading 8: 1817.15 ohms
+
+Reading 1: 1612.61 ohms
+Reading 2: 732.74 ohms
+Reading 3: 1620.87 ohms
+Reading 4: 2101.96 ohms
+Reading 5: 1328.92 ohms
+Reading 6: 1443.94 ohms
+Reading 7: 1313.91 ohms
+Reading 8: 1366.78 ohms
+
+Reading 1: 1843.66 ohms
+Reading 2: 720.57 ohms
+Reading 3: 1861.45 ohms
+Reading 4: 2584.95 ohms
+Reading 5: 1596.14 ohms
+Reading 6: 1799.59 ohms
+Reading 7: 1670.92 ohms
+Reading 8: 1817.15 ohms
+
+Reading 1: 2330.00 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2381.63 ohms
+Reading 4: 3516.98 ohms
+Reading 5: 2073.31 ohms
+Reading 6: 2381.63 ohms
+Reading 7: 2319.77 ohms
+Reading 8: 2476.50 ohms
+
+Reading 1: 2508.69 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2541.18 ohms
+Reading 4: 3822.53 ohms
+Reading 5: 2209.14 ohms
+Reading 6: 2552.07 ohms
+Reading 7: 2497.93 ohms
+Reading 8: 2651.63 ohms
+
+Reading 1: 2584.95 ohms
+Reading 2: 708.45 ohms
+Reading 3: 2618.14 ohms
+Reading 4: 3960.58 ohms
+Reading 5: 2269.04 ohms
+Reading 6: 2640.43 ohms
+Reading 7: 2584.95 ohms
+Reading 8: 2753.97 ohms
+
+Reading 1: 2629.27 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2674.12 ohms
+Reading 4: 4055.14 ohms
+Reading 5: 2330.00 ohms
+Reading 6: 2708.13 ohms
+Reading 7: 2674.12 ohms
+Reading 8: 2835.57 ohms
+
+Reading 1: 2607.04 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2662.86 ohms
+Reading 4: 4039.23 ohms
+Reading 5: 2319.77 ohms
+Reading 6: 2696.76 ohms
+Reading 7: 2685.42 ohms
+Reading 8: 2847.37 ohms
+
+Reading 1: 2618.14 ohms
+Reading 2: 726.64 ohms
+Reading 3: 2662.86 ohms
+Reading 4: 4039.23 ohms
+Reading 5: 2330.00 ohms
+Reading 6: 2708.13 ohms
+Reading 7: 2696.76 ohms
+Reading 8: 2859.21 ohms
+
+Reading 1: 2595.98 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2662.86 ohms
+Reading 4: 4023.39 ohms
+Reading 5: 2319.77 ohms
+Reading 6: 2685.42 ohms
+Reading 7: 2662.86 ohms
+Reading 8: 2835.57 ohms
+
+Reading 1: 2552.07 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2618.14 ohms
+Reading 4: 3960.58 ohms
+Reading 5: 2299.39 ohms
+Reading 6: 2651.63 ohms
+Reading 7: 2640.43 ohms
+Reading 8: 2812.07 ohms
+
+Reading 1: 2476.50 ohms
+Reading 2: 708.45 ohms
+Reading 3: 2530.32 ohms
+Reading 4: 3807.46 ohms
+Reading 5: 2219.05 ohms
+Reading 6: 2563.00 ohms
+Reading 7: 2552.07 ohms
+Reading 8: 2719.54 ohms
+
+Reading 1: 2371.24 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2444.59 ohms
+Reading 4: 3630.75 ohms
+Reading 5: 2140.54 ohms
+Reading 6: 2465.83 ohms
+Reading 7: 2423.48 ohms
+Reading 8: 2584.95 ohms
+
+Reading 1: 2434.02 ohms
+Reading 2: 708.45 ohms
+Reading 3: 2476.50 ohms
+Reading 4: 3703.47 ohms
+Reading 5: 2160.00 ohms
+Reading 6: 2465.83 ohms
+Reading 7: 2402.49 ohms
+Reading 8: 2563.00 ohms
+
+Reading 1: 2753.97 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2730.98 ohms
+Reading 4: 4200.93 ohms
+Reading 5: 2340.26 ohms
+Reading 6: 2696.76 ohms
+Reading 7: 2607.04 ohms
+Reading 8: 2742.45 ohms
+
+Reading 1: 3116.80 ohms
+Reading 2: 720.57 ohms
+Reading 3: 3066.39 ohms
+Reading 4: 4798.69 ohms
+Reading 5: 2595.98 ohms
+Reading 6: 3029.00 ohms
+Reading 7: 2906.95 ohms
+Reading 8: 3053.88 ohms
+
+Reading 1: 3325.23 ohms
+Reading 2: 708.45 ohms
+Reading 3: 3272.08 ohms
+Reading 4: 5149.01 ohms
+Reading 5: 2753.97 ohms
+Reading 6: 3245.77 ohms
+Reading 7: 3167.88 ohms
+Reading 8: 3338.62 ohms
+
+Reading 1: 3298.56 ohms
+Reading 2: 714.50 ohms
+Reading 3: 3272.08 ohms
+Reading 4: 5128.87 ohms
+Reading 5: 2765.51 ohms
+Reading 6: 3298.56 ohms
+Reading 7: 3219.64 ohms
+Reading 8: 3406.29 ohms
+
+Reading 1: 3180.76 ohms
+Reading 2: 714.50 ohms
+Reading 3: 3180.76 ohms
+Reading 4: 4970.67 ohms
+Reading 5: 2696.76 ohms
+Reading 6: 3193.67 ohms
+Reading 7: 3129.51 ohms
+Reading 8: 3311.87 ohms
+
+Reading 1: 2991.97 ohms
+Reading 2: 720.57 ohms
+Reading 3: 3029.00 ohms
+Reading 4: 4669.12 ohms
+Reading 5: 2573.96 ohms
+Reading 6: 3029.00 ohms
+Reading 7: 2955.30 ohms
+Reading 8: 3129.51 ohms
+
+Reading 1: 2812.07 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2847.37 ohms
+Reading 4: 4351.68 ohms
+Reading 5: 2423.48 ohms
+Reading 6: 2835.57 ohms
+Reading 7: 2765.51 ohms
+Reading 8: 2931.05 ohms
+
+Reading 1: 2730.98 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2765.51 ohms
+Reading 4: 4200.93 ohms
+Reading 5: 2350.56 ohms
+Reading 6: 2753.97 ohms
+Reading 7: 2640.43 ohms
+Reading 8: 2823.80 ohms
+
+Reading 1: 2765.51 ohms
+Reading 2: 726.64 ohms
+Reading 3: 2777.10 ohms
+Reading 4: 4250.62 ohms
+Reading 5: 2360.88 ohms
+Reading 6: 2742.45 ohms
+Reading 7: 2651.63 ohms
+Reading 8: 2800.38 ohms
+
+Reading 1: 2835.57 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2823.80 ohms
+Reading 4: 4334.68 ohms
+Reading 5: 2392.04 ohms
+Reading 6: 2777.10 ohms
+Reading 7: 2662.86 ohms
+Reading 8: 2812.07 ohms
+
+Reading 1: 2871.09 ohms
+Reading 2: 702.41 ohms
+Reading 3: 2835.57 ohms
+Reading 4: 4368.75 ohms
+Reading 5: 2392.04 ohms
+Reading 6: 2788.72 ohms
+Reading 7: 2662.86 ohms
+Reading 8: 2812.07 ohms
+
+Reading 1: 2835.57 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2823.80 ohms
+Reading 4: 4317.74 ohms
+Reading 5: 2371.24 ohms
+Reading 6: 2765.51 ohms
+Reading 7: 2640.43 ohms
+Reading 8: 2800.38 ohms
+
+Reading 1: 2859.21 ohms
+Reading 2: 708.45 ohms
+Reading 3: 2835.57 ohms
+Reading 4: 4351.68 ohms
+Reading 5: 2371.24 ohms
+Reading 6: 2788.72 ohms
+Reading 7: 2640.43 ohms
+Reading 8: 2800.38 ohms
+
+Reading 1: 2967.49 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2943.16 ohms
+Reading 4: 4543.05 ohms
+Reading 5: 2455.19 ohms
+Reading 6: 2894.96 ohms
+Reading 7: 2753.97 ohms
+Reading 8: 2906.95 ohms
+
+Reading 1: 2906.95 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2883.01 ohms
+Reading 4: 4420.34 ohms
+Reading 5: 2412.97 ohms
+Reading 6: 2823.80 ohms
+Reading 7: 2708.13 ohms
+Reading 8: 2871.09 ohms
+
+Reading 1: 2662.86 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2685.42 ohms
+Reading 4: 4071.10 ohms
+Reading 5: 2279.13 ohms
+Reading 6: 2662.86 ohms
+Reading 7: 2563.00 ohms
+Reading 8: 2708.13 ohms
+
+Reading 1: 2497.93 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2541.18 ohms
+Reading 4: 3807.46 ohms
+Reading 5: 2169.77 ohms
+Reading 6: 2508.69 ohms
+Reading 7: 2423.48 ohms
+Reading 8: 2563.00 ohms
+
+Reading 1: 2508.69 ohms
+Reading 2: 714.50 ohms
+Reading 3: 2519.49 ohms
+Reading 4: 3777.49 ohms
+Reading 5: 2160.00 ohms
+Reading 6: 2476.50 ohms
+Reading 7: 2371.24 ohms
+Reading 8: 2519.49 ohms
+
+Reading 1: 2607.04 ohms
+Reading 2: 726.64 ohms
+Reading 3: 2607.04 ohms
+Reading 4: 3945.02 ohms
+Reading 5: 2209.14 ohms
+Reading 6: 2541.18 ohms
+Reading 7: 2412.97 ohms
+Reading 8: 2552.07 ohms
+
+Reading 1: 2812.07 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2800.38 ohms
+Reading 4: 4284.05 ohms
+Reading 5: 2350.56 ohms
+Reading 6: 2719.54 ohms
+Reading 7: 2607.04 ohms
+Reading 8: 2753.97 ohms
+
+Reading 1: 2894.96 ohms
+Reading 2: 708.45 ohms
+Reading 3: 2883.01 ohms
+Reading 4: 4437.67 ohms
+Reading 5: 2434.02 ohms
+Reading 6: 2823.80 ohms
+Reading 7: 2730.98 ohms
+Reading 8: 2906.95 ohms
+
+Reading 1: 2800.38 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2823.80 ohms
+Reading 4: 4317.74 ohms
+Reading 5: 2412.97 ohms
+Reading 6: 2800.38 ohms
+Reading 7: 2730.98 ohms
+Reading 8: 2918.98 ohms
+
+Reading 1: 2742.45 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2788.72 ohms
+Reading 4: 4250.62 ohms
+Reading 5: 2392.04 ohms
+Reading 6: 2753.97 ohms
+Reading 7: 2696.76 ohms
+Reading 8: 2871.09 ohms
+
+Reading 1: 2765.51 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2788.72 ohms
+Reading 4: 4284.05 ohms
+Reading 5: 2423.48 ohms
+Reading 6: 2765.51 ohms
+Reading 7: 2730.98 ohms
+Reading 8: 2894.96 ohms
+
+Reading 1: 2894.96 ohms
+Reading 2: 726.64 ohms
+Reading 3: 2918.98 ohms
+Reading 4: 4507.65 ohms
+Reading 5: 2530.32 ohms
+Reading 6: 2894.96 ohms
+Reading 7: 2847.37 ohms
+Reading 8: 3029.00 ohms
+
+Reading 1: 2967.49 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2979.71 ohms
+Reading 4: 4614.67 ohms
+Reading 5: 2584.95 ohms
+Reading 6: 2967.49 ohms
+Reading 7: 2931.05 ohms
+Reading 8: 3129.51 ohms
+
+Reading 1: 3004.28 ohms
+Reading 2: 720.57 ohms
+Reading 3: 3016.62 ohms
+Reading 4: 4705.78 ohms
+Reading 5: 2640.43 ohms
+Reading 6: 3041.42 ohms
+Reading 7: 3004.28 ohms
+Reading 8: 3232.68 ohms
+
+Reading 1: 3016.62 ohms
+Reading 2: 720.57 ohms
+Reading 3: 3053.88 ohms
+Reading 4: 4761.30 ohms
+Reading 5: 2662.86 ohms
+Reading 6: 3066.39 ohms
+Reading 7: 3053.88 ohms
+Reading 8: 3272.08 ohms
+
+Reading 1: 3041.42 ohms
+Reading 2: 732.74 ohms
+Reading 3: 3078.93 ohms
+Reading 4: 4798.69 ohms
+Reading 5: 2674.12 ohms
+Reading 6: 3091.51 ohms
+Reading 7: 3066.39 ohms
+Reading 8: 3298.56 ohms
+
+Reading 1: 2955.30 ohms
+Reading 2: 732.74 ohms
+Reading 3: 3016.62 ohms
+Reading 4: 4687.41 ohms
+Reading 5: 2629.27 ohms
+Reading 6: 3029.00 ohms
+Reading 7: 3004.28 ohms
+Reading 8: 3232.68 ohms
+
+Reading 1: 2859.21 ohms
+Reading 2: 738.85 ohms
+Reading 3: 2918.98 ohms
+Reading 4: 4490.06 ohms
+Reading 5: 2552.07 ohms
+Reading 6: 2918.98 ohms
+Reading 7: 2906.95 ohms
+Reading 8: 3116.80 ohms
+
+Reading 1: 2859.21 ohms
+Reading 2: 720.57 ohms
+Reading 3: 2883.01 ohms
+Reading 4: 4455.07 ohms
+Reading 5: 2530.32 ohms
+Reading 6: 2883.01 ohms
+Reading 7: 2835.57 ohms
+Reading 8: 3029.00 ohms
+
+Reading 1: 3066.39 ohms
+Reading 2: 738.85 ohms
+Reading 3: 3053.88 ohms
+Reading 4: 4779.96 ohms
+Reading 5: 2651.63 ohms
+Reading 6: 3016.62 ohms
+Reading 7: 2943.16 ohms
+Reading 8: 3142.26 ohms
+
+Reading 1: 3531.03 ohms
+Reading 2: 738.85 ohms
+Reading 3: 3461.26 ohms
+Reading 4: 5526.28 ohms
+Reading 5: 2955.30 ohms
+Reading 6: 3392.67 ohms
+Reading 7: 3285.30 ohms
+Reading 8: 3502.98 ohms
+
+Reading 1: 3991.87 ohms
+Reading 2: 726.64 ohms
+Reading 3: 3914.06 ohms
+Reading 4: 6349.65 ohms
+Reading 5: 3311.87 ohms
+Reading 6: 3868.05 ohms
+Reading 7: 3792.45 ohms
+Reading 8: 4039.23 ohms
+
+Reading 1: 4334.68 ohms
+Reading 2: 714.50 ohms
+Reading 3: 4267.30 ohms
+Reading 4: 6938.98 ohms
+Reading 5: 3602.01 ohms
+Reading 6: 4217.43 ohms
+Reading 7: 4151.79 ohms
+Reading 8: 4385.88 ohms
+
+Reading 1: 4742.72 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4632.75 ohms
+Reading 4: 7594.96 ohms
+Reading 5: 3868.05 ohms
+Reading 6: 4560.85 ohms
+Reading 7: 4437.67 ohms
+Reading 8: 4705.78 ohms
+
+Reading 1: 5049.13 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4931.91 ohms
+Reading 4: 8086.47 ohms
+Reading 5: 4071.10 ohms
+Reading 6: 4855.33 ohms
+Reading 7: 4724.21 ohms
+Reading 8: 4990.16 ohms
+
+Reading 1: 5128.87 ohms
+Reading 2: 720.57 ohms
+Reading 3: 5068.94 ohms
+Reading 4: 8294.29 ohms
+Reading 5: 4184.49 ohms
+Reading 6: 4970.67 ohms
+Reading 7: 4912.65 ohms
+Reading 8: 5189.54 ohms
+
+Reading 1: 4990.16 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4931.91 ohms
+Reading 4: 8086.47 ohms
+Reading 5: 4119.34 ohms
+Reading 6: 4874.36 ohms
+Reading 7: 4836.37 ohms
+Reading 8: 5108.81 ohms
+
+Reading 1: 5009.74 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4951.25 ohms
+Reading 4: 8120.64 ohms
+Reading 5: 4135.54 ohms
+Reading 6: 4855.33 ohms
+Reading 7: 4817.50 ohms
+Reading 8: 5068.94 ohms
+
+Reading 1: 5088.83 ohms
+Reading 2: 726.64 ohms
+Reading 3: 5009.74 ohms
+Reading 4: 8259.19 ohms
+Reading 5: 4184.49 ohms
+Reading 6: 4951.25 ohms
+Reading 7: 4893.47 ohms
+Reading 8: 5169.24 ohms
+
+Reading 1: 5049.13 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4990.16 ohms
+Reading 4: 8189.54 ohms
+Reading 5: 4151.79 ohms
+Reading 6: 4893.47 ohms
+Reading 7: 4874.36 ohms
+Reading 8: 5149.01 ohms
+
+Reading 1: 5128.87 ohms
+Reading 2: 726.64 ohms
+Reading 3: 5068.94 ohms
+Reading 4: 8329.59 ohms
+Reading 5: 4233.99 ohms
+Reading 6: 4990.16 ohms
+Reading 7: 4970.67 ohms
+Reading 8: 5250.98 ohms
+
+Reading 1: 5029.39 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4970.67 ohms
+Reading 4: 8155.00 ohms
+Reading 5: 4168.11 ohms
+Reading 6: 4951.25 ohms
+Reading 7: 4912.65 ohms
+Reading 8: 5230.41 ohms
+
+Reading 1: 4912.65 ohms
+Reading 2: 720.57 ohms
+Reading 3: 4893.47 ohms
+Reading 4: 8018.67 ohms
+Reading 5: 4119.34 ohms
+Reading 6: 4855.33 ohms
+Reading 7: 4855.33 ohms
+Reading 8: 5128.87 ohms
+
+Reading 1: 4798.69 ohms
+Reading 2: 720.57 ohms
+Reading 3: 4779.96 ohms
+Reading 4: 7819.53 ohms
+Reading 5: 4007.60 ohms
+Reading 6: 4724.21 ohms
+Reading 7: 4705.78 ohms
+Reading 8: 4970.67 ohms
+
+Reading 1: 4724.21 ohms
+Reading 2: 720.57 ohms
+Reading 3: 4669.12 ohms
+Reading 4: 7658.29 ohms
+Reading 5: 3914.06 ohms
+Reading 6: 4614.67 ohms
+Reading 7: 4543.05 ohms
+Reading 8: 4817.50 ohms
+
+Reading 1: 4669.12 ohms
+Reading 2: 714.50 ohms
+Reading 3: 4596.66 ohms
+Reading 4: 7501.17 ohms
+Reading 5: 3852.82 ohms
+Reading 6: 4543.05 ohms
+Reading 7: 4437.67 ohms
+Reading 8: 4724.21 ohms
+
+Reading 1: 4650.90 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4560.85 ohms
+Reading 4: 7470.23 ohms
+Reading 5: 3822.53 ohms
+Reading 6: 4490.06 ohms
+Reading 7: 4385.88 ohms
+Reading 8: 4650.90 ohms
+
+Reading 1: 4836.37 ohms
+Reading 2: 732.74 ohms
+Reading 3: 4724.21 ohms
+Reading 4: 7754.53 ohms
+Reading 5: 3929.51 ohms
+Reading 6: 4614.67 ohms
+Reading 7: 4525.32 ohms
+Reading 8: 4798.69 ohms
+
+Reading 1: 4970.67 ohms
+Reading 2: 720.57 ohms
+Reading 3: 4874.36 ohms
+Reading 4: 7985.04 ohms
+Reading 5: 4055.14 ohms
+Reading 6: 4798.69 ohms
+Reading 7: 4724.21 ohms
+Reading 8: 5009.74 ohms
+
+Reading 1: 4970.67 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4893.47 ohms
+Reading 4: 8052.48 ohms
+Reading 5: 4119.34 ohms
+Reading 6: 4855.33 ohms
+Reading 7: 4817.50 ohms
+Reading 8: 5128.87 ohms
+
+Reading 1: 4951.25 ohms
+Reading 2: 720.57 ohms
+Reading 3: 4893.47 ohms
+Reading 4: 8052.48 ohms
+Reading 5: 4135.54 ohms
+Reading 6: 4893.47 ohms
+Reading 7: 4874.36 ohms
+Reading 8: 5189.54 ohms
+
+Reading 1: 4912.65 ohms
+Reading 2: 732.74 ohms
+Reading 3: 4855.33 ohms
+Reading 4: 7985.04 ohms
+Reading 5: 4103.20 ohms
+Reading 6: 4874.36 ohms
+Reading 7: 4836.37 ohms
+Reading 8: 5149.01 ohms
+
+Reading 1: 4798.69 ohms
+Reading 2: 714.50 ohms
+Reading 3: 4742.72 ohms
+Reading 4: 7786.95 ohms
+Reading 5: 4023.39 ohms
+Reading 6: 4779.96 ohms
+Reading 7: 4742.72 ohms
+Reading 8: 5068.94 ohms
+
+Reading 1: 4596.66 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4596.66 ohms
+Reading 4: 7501.17 ohms
+Reading 5: 3914.06 ohms
+Reading 6: 4632.75 ohms
+Reading 7: 4614.67 ohms
+Reading 8: 4912.65 ohms
+
+Reading 1: 4200.93 ohms
+Reading 2: 738.85 ohms
+Reading 3: 4217.43 ohms
+Reading 4: 6799.57 ohms
+Reading 5: 3587.72 ohms
+Reading 6: 4250.62 ohms
+Reading 7: 4217.43 ohms
+Reading 8: 4507.65 ohms
+
+Reading 1: 3732.92 ohms
+Reading 2: 732.74 ohms
+Reading 3: 3747.73 ohms
+Reading 4: 6004.83 ohms
+Reading 5: 3206.63 ohms
+Reading 6: 3777.49 ohms
+Reading 7: 3674.23 ohms
+Reading 8: 3945.02 ohms
+
+Reading 1: 3837.65 ohms
+Reading 2: 726.64 ohms
+Reading 3: 3807.46 ohms
+Reading 4: 6125.48 ohms
+Reading 5: 3232.68 ohms
+Reading 6: 3762.58 ohms
+Reading 7: 3659.69 ohms
+Reading 8: 3883.33 ohms
+
+Reading 1: 4184.49 ohms
+Reading 2: 738.85 ohms
+Reading 3: 4071.10 ohms
+Reading 4: 6609.93 ohms
+Reading 5: 3419.97 ohms
+Reading 6: 3991.87 ohms
+Reading 7: 3852.82 ohms
+Reading 8: 4087.12 ohms
+
+Reading 1: 4614.67 ohms
+Reading 2: 732.74 ohms
+Reading 3: 4437.67 ohms
+Reading 4: 7287.82 ohms
+Reading 5: 3703.47 ohms
+Reading 6: 4317.74 ohms
+Reading 7: 4168.11 ohms
+Reading 8: 4437.67 ohms
+
+Reading 1: 4931.91 ohms
+Reading 2: 738.85 ohms
+Reading 3: 4742.72 ohms
+Reading 4: 7819.53 ohms
+Reading 5: 3945.02 ohms
+Reading 6: 4650.90 ohms
+Reading 7: 4490.06 ohms
+Reading 8: 4779.96 ohms
+
+Reading 1: 5169.24 ohms
+Reading 2: 732.74 ohms
+Reading 3: 5009.74 ohms
+Reading 4: 8294.29 ohms
+Reading 5: 4151.79 ohms
+Reading 6: 4931.91 ohms
+Reading 7: 4779.96 ohms
+Reading 8: 5088.83 ohms
+
+Reading 1: 5209.94 ohms
+Reading 2: 738.85 ohms
+Reading 3: 5068.94 ohms
+Reading 4: 8365.08 ohms
+Reading 5: 4200.93 ohms
+Reading 6: 5009.74 ohms
+Reading 7: 4912.65 ohms
+Reading 8: 5209.94 ohms
+
+Reading 1: 5009.74 ohms
+Reading 2: 738.85 ohms
+Reading 3: 4912.65 ohms
+Reading 4: 8052.48 ohms
+Reading 5: 4119.34 ohms
+Reading 6: 4874.36 ohms
+Reading 7: 4798.69 ohms
+Reading 8: 5128.87 ohms
+
+Reading 1: 4724.21 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4705.78 ohms
+Reading 4: 7690.21 ohms
+Reading 5: 3960.58 ohms
+Reading 6: 4705.78 ohms
+Reading 7: 4650.90 ohms
+Reading 8: 4970.67 ohms
+
+Reading 1: 4385.88 ohms
+Reading 2: 738.85 ohms
+Reading 3: 4385.88 ohms
+Reading 4: 7110.81 ohms
+Reading 5: 3718.17 ohms
+Reading 6: 4385.88 ohms
+Reading 7: 4334.68 ohms
+Reading 8: 4650.90 ohms
+
+Reading 1: 4267.30 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4217.43 ohms
+Reading 4: 6854.93 ohms
+Reading 5: 3587.72 ohms
+Reading 6: 4217.43 ohms
+Reading 7: 4119.34 ohms
+Reading 8: 4385.88 ohms
+
+Reading 1: 4490.06 ohms
+Reading 2: 738.85 ohms
+Reading 3: 4385.88 ohms
+Reading 4: 7169.23 ohms
+Reading 5: 3703.47 ohms
+Reading 6: 4334.68 ohms
+Reading 7: 4217.43 ohms
+Reading 8: 4490.06 ohms
+
+Reading 1: 4669.12 ohms
+Reading 2: 732.74 ohms
+Reading 3: 4560.85 ohms
+Reading 4: 7501.17 ohms
+Reading 5: 3837.65 ohms
+Reading 6: 4490.06 ohms
+Reading 7: 4368.75 ohms
+Reading 8: 4632.75 ohms
+
+Reading 1: 4687.41 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4596.66 ohms
+Reading 4: 7563.54 ohms
+Reading 5: 3898.67 ohms
+Reading 6: 4560.85 ohms
+Reading 7: 4507.65 ohms
+Reading 8: 4817.50 ohms
+
+Reading 1: 4596.66 ohms
+Reading 2: 738.85 ohms
+Reading 3: 4525.32 ohms
+Reading 4: 7408.81 ohms
+Reading 5: 3868.05 ohms
+Reading 6: 4525.32 ohms
+Reading 7: 4507.65 ohms
+Reading 8: 4817.50 ohms
+
+Reading 1: 4525.32 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4472.53 ohms
+Reading 4: 7348.01 ohms
+Reading 5: 3837.65 ohms
+Reading 6: 4455.07 ohms
+Reading 7: 4455.07 ohms
+Reading 8: 4761.30 ohms
+
+Reading 1: 4779.96 ohms
+Reading 2: 732.74 ohms
+Reading 3: 4687.41 ohms
+Reading 4: 7754.53 ohms
+Reading 5: 3991.87 ohms
+Reading 6: 4650.90 ohms
+Reading 7: 4632.75 ohms
+Reading 8: 4931.91 ohms
+
+Reading 1: 5088.83 ohms
+Reading 2: 726.64 ohms
+Reading 3: 4951.25 ohms
+Reading 4: 8189.54 ohms
+Reading 5: 4217.43 ohms
+Reading 6: 4931.91 ohms
+Reading 7: 4951.25 ohms
+Reading 8: 5271.63 ohms
+
+Reading 1: 5355.08 ohms
+Reading 2: 732.74 ohms
+Reading 3: 5209.94 ohms
+Reading 4: 8693.45 ohms
+Reading 5: 4455.07 ohms
+Reading 6: 5230.41 ohms
+Reading 7: 5292.36 ohms
+Reading 8: 5614.10 ohms
+
+Reading 1: 5439.96 ohms
+Reading 2: 720.57 ohms
+Reading 3: 5355.08 ohms
+Reading 4: 8921.71 ohms
+Reading 5: 4596.66 ohms
+Reading 6: 5397.34 ohms
+Reading 7: 5504.56 ohms
+Reading 8: 5840.40 ohms
+
+Reading 1: 5548.09 ohms
+Reading 2: 732.74 ohms
+Reading 3: 5418.60 ohms
+Reading 4: 9038.79 ohms
+Reading 5: 4669.12 ohms
+Reading 6: 5482.93 ohms
+Reading 7: 5548.09 ohms
+Reading 8: 5910.24 ohms
+
+Reading 1: 5592.00 ohms
+Reading 2: 732.74 ohms
+Reading 3: 5504.56 ohms
+Reading 4: 9198.08 ohms
+Reading 5: 4742.72 ohms
+Reading 6: 5592.00 ohms
+Reading 7: 5748.69 ohms
+Reading 8: 6149.93 ohms
+
+Reading 1: 6609.93 ohms
+Reading 2: 714.50 ohms
+Reading 3: 6504.36 ohms
+Reading 4: 10919.02 ohms
+Reading 5: 5570.00 ohms
+Reading 6: 6609.93 ohms
+Reading 7: 6938.98 ohms
+Reading 8: 7378.33 ohms
+
+Reading 1: 6349.65 ohms
+Reading 2: 720.57 ohms
+Reading 3: 6273.90 ohms
+Reading 4: 10522.10 ohms
+Reading 5: 5355.08 ohms
+Reading 6: 6324.29 ohms
+Reading 7: 6663.47 ohms
+Reading 8: 7024.26 ohms
+
+Reading 1: 6349.65 ohms
+Reading 2: 714.50 ohms
+Reading 3: 6223.97 ohms
+Reading 4: 10426.01 ohms
+Reading 5: 5292.36 ohms
+Reading 6: 6248.88 ohms
+Reading 7: 6504.36 ohms
+Reading 8: 6854.93 ohms
+
+Reading 1: 6349.65 ohms
+Reading 2: 714.50 ohms
+Reading 3: 6223.97 ohms
+Reading 4: 10426.01 ohms
+Reading 5: 5250.98 ohms
+Reading 6: 6248.88 ohms
+Reading 7: 6426.47 ohms
+Reading 8: 6799.57 ohms
+
+Reading 1: 6478.27 ohms
+Reading 2: 714.50 ohms
+Reading 3: 6299.03 ohms
+Reading 4: 10570.61 ohms
+Reading 5: 5292.36 ohms
+Reading 6: 6273.90 ohms
+Reading 7: 6452.31 ohms
+Reading 8: 6799.57 ohms
+
+Reading 1: 6690.43 ohms
+Reading 2: 714.50 ohms
+Reading 3: 6478.27 ohms
+Reading 4: 10919.02 ohms
+Reading 5: 5418.60 ohms
+Reading 6: 6452.31 ohms
+Reading 7: 6609.93 ohms
+Reading 8: 6938.98 ohms
+
+Reading 1: 6744.74 ohms
+Reading 2: 708.45 ohms
+Reading 3: 6530.56 ohms
+Reading 4: 10970.10 ohms
+Reading 5: 5461.40 ohms
+Reading 6: 6504.36 ohms
+Reading 7: 6690.43 ohms
+Reading 8: 7052.97 ohms
+
+Reading 1: 6938.98 ohms
+Reading 2: 708.45 ohms
+Reading 3: 6690.43 ohms
+Reading 4: 11391.11 ohms
+Reading 5: 5592.00 ohms
+Reading 6: 6663.47 ohms
+Reading 7: 6827.18 ohms
+Reading 8: 7198.66 ohms
+
+Reading 1: 7439.44 ohms
+Reading 2: 702.41 ohms
+Reading 3: 7110.81 ohms
+Reading 4: 12185.16 ohms
+Reading 5: 5933.73 ohms
+Reading 6: 7081.82 ohms
+Reading 7: 7228.23 ohms
+Reading 8: 7594.96 ohms
+
+Reading 1: 8052.48 ohms
+Reading 2: 696.38 ohms
+Reading 3: 7626.55 ohms
+Reading 4: 13061.86 ohms
+Reading 5: 6375.14 ohms
+Reading 6: 7594.96 ohms
+Reading 7: 7819.53 ohms
+Reading 8: 8224.27 ohms
+
+Reading 1: 8693.45 ohms
+Reading 2: 714.50 ohms
+Reading 3: 8224.27 ohms
+Reading 4: 14182.61 ohms
+Reading 5: 6882.81 ohms
+Reading 6: 8189.54 ohms
+Reading 7: 8472.73 ohms
+Reading 8: 8921.71 ohms
+
+Reading 1: 9444.08 ohms
+Reading 2: 696.38 ohms
+Reading 3: 8883.13 ohms
+Reading 4: 15539.92 ohms
+Reading 5: 7439.44 ohms
+Reading 6: 8883.13 ohms
+Reading 7: 9279.12 ohms
+Reading 8: 9698.98 ohms
+
+Reading 1: 10284.14 ohms
+Reading 2: 702.41 ohms
+Reading 3: 9570.39 ohms
+Reading 4: 16717.49 ohms
+Reading 5: 8018.67 ohms
+Reading 6: 9570.39 ohms
+Reading 7: 10099.07 ohms
+Reading 8: 10473.91 ohms
+
+Reading 1: 11125.37 ohms
+Reading 2: 690.37 ohms
+Reading 3: 10378.42 ohms
+Reading 4: 18149.47 ohms
+Reading 5: 8656.14 ohms
+Reading 6: 10473.91 ohms
+Reading 7: 10970.10 ohms
+Reading 8: 11445.34 ohms
+
+Reading 1: 12305.05 ohms
+Reading 2: 678.39 ohms
+Reading 3: 11283.75 ohms
+Reading 4: 20040.41 ohms
+Reading 5: 9528.04 ohms
+Reading 6: 11610.24 ohms
+Reading 7: 12244.89 ohms
+Reading 8: 12802.20 ohms
+
+Reading 1: 13535.34 ohms
+Reading 2: 690.37 ohms
+Reading 3: 12185.16 ohms
+Reading 4: 21824.33 ohms
+Reading 5: 10284.14 ohms
+Reading 6: 12612.39 ohms
+Reading 7: 13397.50 ohms
+Reading 8: 13817.44 ohms
+
+Reading 1: 14562.50 ohms
+Reading 2: 684.37 ohms
+Reading 3: 13061.86 ohms
+Reading 4: 23548.17 ohms
+Reading 5: 10970.10 ohms
+Reading 6: 13535.34 ohms
+Reading 7: 14332.75 ohms
+Reading 8: 14797.88 ohms
+
+Reading 1: 16157.38 ohms
+Reading 2: 678.39 ohms
+Reading 3: 14108.42 ohms
+Reading 4: 25898.85 ohms
+Reading 5: 11892.71 ohms
+Reading 6: 14640.32 ohms
+Reading 7: 15800.00 ohms
+Reading 8: 16066.87 ohms
+
+Reading 1: 17207.80 ohms
+Reading 2: 672.42 ohms
+Reading 3: 14958.02 ohms
+Reading 4: 27550.68 ohms
+Reading 5: 12612.39 ohms
+Reading 6: 15712.57 ohms
+Reading 7: 16813.78 ohms
+Reading 8: 17410.28 ohms
+
+Reading 1: 17512.93 ohms
+Reading 2: 672.42 ohms
+Reading 3: 15286.36 ohms
+Reading 4: 28217.10 ohms
+Reading 5: 12866.40 ohms
+Reading 6: 16066.87 ohms
+Reading 7: 17410.28 ohms
+Reading 8: 17826.70 ohms
+
+Reading 1: 17308.57 ohms
+Reading 2: 684.37 ohms
+Reading 3: 15286.36 ohms
+Reading 4: 27769.80 ohms
+Reading 5: 12996.22 ohms
+Reading 6: 16157.38 ohms
+Reading 7: 17410.28 ohms
+Reading 8: 17826.70 ohms
+
+Reading 1: 17826.70 ohms
+Reading 2: 678.39 ohms
+Reading 3: 15888.19 ohms
+Reading 4: 28676.92 ohms
+Reading 5: 13397.50 ohms
+Reading 6: 16527.47 ohms
+Reading 7: 17721.13 ohms
+Reading 8: 18259.13 ohms
+
+Reading 1: 19175.90 ohms
+Reading 2: 666.46 ohms
+Reading 3: 16813.78 ohms
+Reading 4: 30392.79 ohms
+Reading 5: 14034.82 ohms
+Reading 6: 17410.28 ohms
+Reading 7: 18823.64 ohms
+Reading 8: 19175.90 ohms
+
+Reading 1: 19913.09 ohms
+Reading 2: 672.42 ohms
+Reading 3: 17308.57 ohms
+Reading 4: 31455.00 ohms
+Reading 5: 14640.32 ohms
+Reading 6: 18369.86 ohms
+Reading 7: 19787.08 ohms
+Reading 8: 20169.06 ohms
+
+Reading 1: 20040.41 ohms
+Reading 2: 672.42 ohms
+Reading 3: 17410.28 ohms
+Reading 4: 32294.88 ohms
+Reading 5: 14718.78 ohms
+Reading 6: 18708.53 ohms
+Reading 7: 20299.06 ohms
+Reading 8: 20697.34 ohms
+
+Reading 1: 19175.90 ohms
+Reading 2: 678.39 ohms
+Reading 3: 16813.78 ohms
+Reading 4: 30915.97 ohms
+Reading 5: 14034.82 ohms
+Reading 6: 17826.70 ohms
+Reading 7: 19175.90 ohms
+Reading 8: 19295.68 ohms
+
+Reading 1: 18481.65 ohms
+Reading 2: 678.39 ohms
+Reading 3: 15888.19 ohms
+Reading 4: 29391.29 ohms
+Reading 5: 13397.50 ohms
+Reading 6: 16813.78 ohms
+Reading 7: 17616.54 ohms
+Reading 8: 18149.47 ohms
+
+Reading 1: 18481.65 ohms
+Reading 2: 684.37 ohms
+Reading 3: 15888.19 ohms
+Reading 4: 29391.29 ohms
+Reading 5: 13194.61 ohms
+Reading 6: 16622.05 ohms
+Reading 7: 17410.28 ohms
+Reading 8: 17616.54 ohms
+
+Reading 1: 19662.35 ohms
+Reading 2: 672.42 ohms
+Reading 3: 16622.05 ohms
+Reading 4: 31183.46 ohms
+Reading 5: 13817.44 ohms
+Reading 6: 17410.28 ohms
+Reading 7: 18149.47 ohms
+Reading 8: 18481.65 ohms
+
+Reading 1: 21678.01 ohms
+Reading 2: 660.51 ohms
+Reading 3: 18040.86 ohms
+Reading 4: 34097.56 ohms
+Reading 5: 14958.02 ohms
+Reading 6: 18823.64 ohms
+Reading 7: 19662.35 ohms
+Reading 8: 19913.09 ohms
+
+Reading 1: 23056.16 ohms
+Reading 2: 660.51 ohms
+Reading 3: 19538.88 ohms
+Reading 4: 36436.38 ohms
+Reading 5: 15977.14 ohms
+Reading 6: 20430.42 ohms
+Reading 7: 21678.01 ohms
+Reading 8: 21824.33 ohms
+
+Reading 1: 24767.04 ohms
+Reading 2: 660.51 ohms
+Reading 3: 20563.17 ohms
+Reading 4: 39480.55 ohms
+Reading 5: 17009.00 ohms
+Reading 6: 21972.29 ohms
+Reading 7: 22895.95 ohms
+Reading 8: 23548.17 ohms
+
+Reading 1: 25898.85 ohms
+Reading 2: 666.46 ohms
+Reading 3: 21390.16 ohms
+Reading 4: 40741.71 ohms
+Reading 5: 17826.70 ohms
+Reading 6: 22737.59 ohms
+Reading 7: 24232.00 ohms
+Reading 8: 24767.04 ohms
+
+Reading 1: 26295.71 ohms
+Reading 2: 654.58 ohms
+Reading 3: 22121.91 ohms
+Reading 4: 40741.71 ohms
+Reading 5: 18259.13 ohms
+Reading 6: 23382.24 ohms
+Reading 7: 25134.88 ohms
+Reading 8: 25322.26 ohms
+
+Reading 1: 26096.00 ohms
+Reading 2: 666.46 ohms
+Reading 3: 21972.29 ohms
+Reading 4: 42077.06 ohms
+Reading 5: 18369.86 ohms
+Reading 6: 23548.17 ohms
+Reading 7: 25512.02 ohms
+Reading 8: 25322.26 ohms
+
+Reading 1: 26498.04 ohms
+Reading 2: 660.51 ohms
+Reading 3: 22121.91 ohms
+Reading 4: 41623.30 ohms
+Reading 5: 18369.86 ohms
+Reading 6: 23548.17 ohms
+Reading 7: 25134.88 ohms
+Reading 8: 25322.26 ohms
+
+Reading 1: 26096.00 ohms
+Reading 2: 666.46 ohms
+Reading 3: 21972.29 ohms
+Reading 4: 40741.71 ohms
+Reading 5: 18369.86 ohms
+Reading 6: 23382.24 ohms
+Reading 7: 24586.50 ohms
+Reading 8: 24767.04 ohms
+
+Reading 1: 27121.20 ohms
+Reading 2: 660.51 ohms
+Reading 3: 22737.59 ohms
+Reading 4: 43011.80 ohms
+Reading 5: 18708.53 ohms
+Reading 6: 23885.99 ohms
+Reading 7: 25322.26 ohms
+Reading 8: 25322.26 ohms
+
+Reading 1: 29391.29 ohms
+Reading 2: 660.51 ohms
+Reading 3: 24232.00 ohms
+Reading 4: 46054.68 ohms
+Reading 5: 19913.09 ohms
+Reading 6: 25898.85 ohms
+Reading 7: 27121.20 ohms
+Reading 8: 27121.20 ohms
+
+Reading 1: 32010.61 ohms
+Reading 2: 660.51 ohms
+Reading 3: 26096.00 ohms
+Reading 4: 48903.82 ohms
+Reading 5: 21248.59 ohms
+Reading 6: 27334.50 ohms
+Reading 7: 29636.26 ohms
+Reading 8: 29636.26 ohms
+
+Reading 1: 33477.44 ohms
+Reading 2: 642.76 ohms
+Reading 3: 27769.80 ohms
+Reading 4: 51424.47 ohms
+Reading 5: 22426.25 ohms
+Reading 6: 29149.79 ohms
+Reading 7: 31455.00 ohms
+Reading 8: 31455.00 ohms
+
+Reading 1: 34097.56 ohms
+Reading 2: 648.66 ohms
+Reading 3: 28217.10 ohms
+Reading 4: 54194.07 ohms
+Reading 5: 23218.24 ohms
+Reading 6: 29884.78 ohms
+Reading 7: 32010.61 ohms
+Reading 8: 32583.59 ohms
+
+Reading 1: 35739.83 ohms
+Reading 2: 648.66 ohms
+Reading 3: 29391.29 ohms
+Reading 4: 55684.05 ohms
+Reading 5: 24057.95 ohms
+Reading 6: 31183.46 ohms
+Reading 7: 33174.77 ohms
+Reading 8: 33477.44 ohms
+
+Reading 1: 37527.43 ohms
+Reading 2: 654.58 ohms
+Reading 3: 30915.97 ohms
+Reading 4: 58066.05 ohms
+Reading 5: 25512.02 ohms
+Reading 6: 32583.59 ohms
+Reading 7: 35066.50 ohms
+Reading 8: 34738.18 ohms
+
+Reading 1: 40741.71 ohms
+Reading 2: 642.76 ohms
+Reading 3: 33785.00 ohms
+Reading 4: 65445.59 ohms
+Reading 5: 27334.50 ohms
+Reading 6: 35066.50 ohms
+Reading 7: 37904.11 ohms
+Reading 8: 38287.57 ohms
+
+Reading 1: 45520.84 ohms
+Reading 2: 636.87 ohms
+Reading 3: 36793.74 ohms
+Reading 4: 72230.00 ohms
+Reading 5: 29884.78 ohms
+Reading 6: 39075.59 ohms
+Reading 7: 41623.30 ohms
+Reading 8: 41178.27 ohms
+
+Reading 1: 48903.82 ohms
+Reading 2: 642.76 ohms
+Reading 3: 40313.40 ohms
+Reading 4: 76139.66 ohms
+Reading 5: 32876.85 ohms
+Reading 6: 43011.80 ohms
+Reading 7: 46600.00 ohms
+Reading 8: 46600.00 ohms
+
+Reading 1: 54929.75 ohms
+Reading 2: 630.99 ohms
+Reading 3: 45520.84 ohms
+Reading 4: 85286.80 ohms
+Reading 5: 37157.37 ohms
+Reading 6: 47157.18 ohms
+Reading 7: 50772.33 ohms
+Reading 8: 51424.47 ohms
+
+Reading 1: 62483.38 ohms
+Reading 2: 630.99 ohms
+Reading 3: 50772.33 ohms
+Reading 4: 94656.24 ohms
+Reading 5: 41623.30 ohms
+Reading 6: 54194.07 ohms
+Reading 7: 59761.35 ohms
+Reading 8: 57251.43 ohms
+
+Reading 1: 69827.19 ohms
+Reading 2: 625.12 ohms
+Reading 3: 56457.70 ohms
+Reading 4: 108844.29 ohms
+Reading 5: 45520.84 ohms
+Reading 6: 62483.38 ohms
+Reading 7: 66491.94 ohms
+Reading 8: 66491.94 ohms
+
+Reading 1: 73490.49 ohms
+Reading 2: 619.27 ohms
+Reading 3: 60643.83 ohms
+Reading 4: 114519.50 ohms
+Reading 5: 49512.50 ohms
+Reading 6: 65445.59 ohms
+Reading 7: 71009.53 ohms
+Reading 8: 71009.53 ohms
+
+Reading 1: 77532.77 ohms
+Reading 2: 613.43 ohms
+Reading 3: 63442.57 ohms
+Reading 4: 120792.11 ohms
+Reading 5: 51424.47 ohms
+Reading 6: 69827.19 ohms
+Reading 7: 77532.77 ohms
+Reading 8: 69827.19 ohms
+
+Reading 1: 82016.00 ohms
+Reading 2: 619.27 ohms
+Reading 3: 67570.00 ohms
+Reading 4: 131545.14 ohms
+Reading 5: 52092.14 ohms
+Reading 6: 69827.19 ohms
+Reading 7: 78974.73 ohms
+Reading 8: 74793.01 ohms
+
+Reading 1: 88814.12 ohms
+Reading 2: 625.12 ohms
+Reading 3: 72230.00 ohms
+Reading 4: 135551.17 ohms
+Reading 5: 55684.05 ohms
+Reading 6: 77532.77 ohms
+Reading 7: 80468.21 ohms
+Reading 8: 77532.77 ohms
+
+Reading 1: 98974.35 ohms
+Reading 2: 607.60 ohms
+Reading 3: 80468.21 ohms
+Reading 4: 154246.02 ohms
+Reading 5: 65445.59 ohms
+Reading 6: 85286.80 ohms
+Reading 7: 90683.59 ohms
+Reading 8: 87016.54 ohms
+
+Reading 1: 124182.70 ohms
+Reading 2: 601.79 ohms
+Reading 3: 96769.37 ohms
+Reading 4: 202608.70 ohms
+Reading 5: 77532.77 ohms
+Reading 6: 106204.66 ohms
+Reading 7: 111612.68 ohms
+Reading 8: 103685.01 ohms
+
+Reading 1: 154246.02 ohms
+Reading 2: 590.20 ohms
+Reading 3: 124182.70 ohms
+Reading 4: 246244.22 ohms
+Reading 5: 96769.37 ohms
+Reading 6: 127761.67 ohms
+Reading 7: 149120.00 ohms
+Reading 8: 139800.00 ohms
+
+Reading 1: 186027.19 ohms
+Reading 2: 584.42 ohms
+Reading 3: 159725.53 ohms
+Reading 4: 313152.03 ohms
+Reading 5: 117575.39 ohms
+Reading 6: 171902.20 ohms
+Reading 7: 212030.02 ohms
+Reading 8: 178693.08 ohms
+
+Reading 1: 246244.22 ohms
+Reading 2: 578.66 ohms
+Reading 3: 222348.58 ohms
+Reading 4: 428720.03 ohms
+Reading 5: 159725.53 ohms
+Reading 6: 212030.02 ohms
+Reading 7: 246244.22 ohms
+Reading 8: 222348.58 ohms
+
+Reading 1: 260183.34 ohms
+Reading 2: 567.17 ohms
+Reading 3: 260183.34 ohms
+Reading 4: 525026.69 ohms
+Reading 5: 202608.70 ohms
+Reading 6: 260183.34 ohms
+Reading 7: 313152.03 ohms
+Reading 8: 293288.75 ohms
+
+Reading 1: 362046.16 ohms
+Reading 2: 561.45 ohms
+Reading 3: 313152.03 ohms
+Reading 4: 676365.69 ohms
+Reading 5: 222348.58 ohms
+Reading 6: 362046.16 ohms
+Reading 7: 525026.69 ohms
+Reading 8: 335852.84 ohms
+
+Reading 1: 428720.03 ohms
+Reading 2: 561.45 ohms
+Reading 3: 428720.03 ohms
+Reading 4: 789869.94 ohms
+Reading 5: 275762.34 ohms
+Reading 6: 392604.97 ohms
+Reading 7: 525026.69 ohms
+Reading 8: 472058.00 ohms
+
+Reading 1: 428720.03 ohms
+Reading 2: 544.34 ohms
+Reading 3: 472058.00 ohms
+Reading 4: 591237.50 ohms
+Reading 5: 335852.84 ohms
+Reading 6: 525026.69 ohms
+Reading 7: 789869.94 ohms
+Reading 8: 591237.50 ohms
+
+Reading 1: 472058.00 ohms
+Reading 2: 533.01 ohms
+Reading 3: 676365.69 ohms
+Reading 4: 1584399.90 ohms
+Reading 5: 362046.16 ohms
+Reading 6: 789869.94 ohms
+Reading 7: 676365.69 ohms
+Reading 8: 676365.69 ohms
+
+Reading 1: 472058.00 ohms
+Reading 2: 544.34 ohms
+Reading 3: 789869.94 ohms
+Reading 4: 948776.00 ohms
+Reading 5: 472058.00 ohms
+Reading 6: 789869.94 ohms
+Reading 7: 948776.00 ohms
+Reading 8: 676365.69 ohms
+
+Reading 1: 591237.50 ohms
+Reading 2: 544.34 ohms
+Reading 3: 1187135.00 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 525026.69 ohms
+Reading 6: 1584399.90 ohms
+Reading 7: 948776.00 ohms
+Reading 8: 789869.94 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 538.67 ohms
+Reading 3: 1187135.00 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 789869.94 ohms
+Reading 6: 789869.94 ohms
+Reading 7: 1187135.00 ohms
+Reading 8: 948776.00 ohms
+
+Reading 1: 789869.94 ohms
+Reading 2: 538.67 ohms
+Reading 3: 1187135.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 676365.69 ohms
+Reading 6: 1584399.90 ohms
+Reading 7: 4762520.00 ohms
+Reading 8: 1187135.00 ohms
+
+Reading 1: 789869.94 ohms
+Reading 2: 521.72 ohms
+Reading 3: 1187135.00 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 789869.94 ohms
+Reading 6: 1187135.00 ohms
+Reading 7: 1584399.90 ohms
+Reading 8: 1187135.00 ohms
+
+Reading 1: 789869.94 ohms
+Reading 2: 521.72 ohms
+Reading 3: 1584399.90 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 1187135.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7: 2378930.00 ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 2378930.00 ohms
+Reading 2: 510.48 ohms
+Reading 3: 1584399.90 ohms
+Reading 4:  INF ohms
+Reading 5: 1584399.90 ohms
+Reading 6:  INF ohms
+Reading 7: 2378930.00 ohms
+Reading 8: 1187135.00 ohms
+
+Reading 1: 948776.00 ohms
+Reading 2: 510.48 ohms
+Reading 3: 1584399.90 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 1584399.90 ohms
+Reading 6:  INF ohms
+Reading 7: 2378930.00 ohms
+Reading 8:  INF ohms
+
+Reading 1: 1584399.90 ohms
+Reading 2: 521.72 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 1187135.00 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 1187135.00 ohms
+
+Reading 1: 1584399.90 ohms
+Reading 2: 499.29 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 4762520.00 ohms
+Reading 6: 4762520.00 ohms
+Reading 7: 2378930.00 ohms
+Reading 8:  INF ohms
+
+Reading 1: 2378930.00 ohms
+Reading 2: 527.36 ohms
+Reading 3: 4762520.00 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 1584399.90 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 516.09 ohms
+Reading 3: 4762520.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 2378930.00 ohms
+Reading 6:  INF ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 516.09 ohms
+Reading 3: 2378930.00 ohms
+Reading 4:  INF ohms
+Reading 5: 1584399.90 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 4762520.00 ohms
+
+Reading 1: 2378930.00 ohms
+Reading 2: 510.48 ohms
+Reading 3: 4762520.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 2378930.00 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1584399.90 ohms
+Reading 2: 504.88 ohms
+Reading 3: 1584399.90 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 1187135.00 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 948776.00 ohms
+Reading 2: 510.48 ohms
+Reading 3:  INF ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 2378930.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 4762520.00 ohms
+
+Reading 1: 948776.00 ohms
+Reading 2: 516.09 ohms
+Reading 3: 1584399.90 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 1187135.00 ohms
+Reading 6:  INF ohms
+Reading 7: 4762520.00 ohms
+Reading 8:  INF ohms
+
+Reading 1: 1584399.90 ohms
+Reading 2: 527.36 ohms
+Reading 3: 2378930.00 ohms
+Reading 4:  INF ohms
+Reading 5: 1584399.90 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 1187135.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 516.09 ohms
+Reading 3: 4762520.00 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 1187135.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1584399.90 ohms
+Reading 2: 488.14 ohms
+Reading 3: 2378930.00 ohms
+Reading 4:  INF ohms
+Reading 5: 2378930.00 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 4762520.00 ohms
+
+Reading 1: 948776.00 ohms
+Reading 2: 504.88 ohms
+Reading 3: 4762520.00 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 1584399.90 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 1187135.00 ohms
+
+Reading 1: 948776.00 ohms
+Reading 2: 510.48 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 1584399.90 ohms
+Reading 6:  INF ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 948776.00 ohms
+Reading 2: 516.09 ohms
+Reading 3: 4762520.00 ohms
+Reading 4: 2378930.00 ohms
+Reading 5: 4762520.00 ohms
+Reading 6:  INF ohms
+Reading 7: 4762520.00 ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 504.88 ohms
+Reading 3:  INF ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 4762520.00 ohms
+Reading 6:  INF ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 493.71 ohms
+Reading 3: 4762520.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 1584399.90 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 516.09 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 4762520.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7: 4762520.00 ohms
+Reading 8: 4762520.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 527.36 ohms
+Reading 3: 4762520.00 ohms
+Reading 4:  INF ohms
+Reading 5: 2378930.00 ohms
+Reading 6:  INF ohms
+Reading 7:  INF ohms
+Reading 8:  INF ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 510.48 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 4762520.00 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 493.71 ohms
+Reading 3:  INF ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 2378930.00 ohms
+Reading 6:  INF ohms
+Reading 7:  INF ohms
+Reading 8: 4762520.00 ohms
+
+Reading 1: 2378930.00 ohms
+Reading 2: 504.88 ohms
+Reading 3: 2378930.00 ohms
+Reading 4:  INF ohms
+Reading 5: 1584399.90 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 499.29 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 1584399.90 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 521.72 ohms
+Reading 3:  INF ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 1187135.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 4762520.00 ohms
+
+Reading 1: 4762520.00 ohms
+Reading 2: 499.29 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 2378930.00 ohms
+Reading 6: 4762520.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 789869.94 ohms
+Reading 2: 493.71 ohms
+Reading 3:  INF ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 2378930.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 789869.94 ohms
+Reading 2: 527.36 ohms
+Reading 3: 2378930.00 ohms
+Reading 4:  INF ohms
+Reading 5: 2378930.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 2378930.00 ohms
+Reading 2: 516.09 ohms
+Reading 3:  INF ohms
+Reading 4:  INF ohms
+Reading 5: 2378930.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 521.72 ohms
+Reading 3: 4762520.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5:  INF ohms
+Reading 6:  INF ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 1187135.00 ohms
+Reading 2: 504.88 ohms
+Reading 3: 4762520.00 ohms
+Reading 4:  INF ohms
+Reading 5: 2378930.00 ohms
+Reading 6: 4762520.00 ohms
+Reading 7: 4762520.00 ohms
+Reading 8: 4762520.00 ohms
+
+Reading 1: 1584399.90 ohms
+Reading 2: 516.09 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 4762520.00 ohms
+Reading 6: 2378930.00 ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
+Reading 1: 948776.00 ohms
+Reading 2: 493.71 ohms
+Reading 3: 2378930.00 ohms
+Reading 4: 4762520.00 ohms
+Reading 5: 1584399.90 ohms
+Reading 6:  INF ohms
+Reading 7:  INF ohms
+Reading 8: 2378930.00 ohms
+
