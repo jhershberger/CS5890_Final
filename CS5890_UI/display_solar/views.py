@@ -2,7 +2,7 @@
 # @Date:   01-04-2017
 # @Filename: views.py
 # @Last modified by:   Justin Hershberger
-# @Last modified time: 12-04-2017
+# @Last modified time: 14-04-2017
 
 
 
@@ -40,7 +40,7 @@ def data(request, post_id):
 @csrf_exempt
 def postDay(request):
     today = str((datetime.today()).date())
-    yesterday = str((datetime.today() - timedelta(2)).date())
+    yesterday = str((datetime.today() - timedelta(1)).date())
     try:
         p = Post.objects.get(date=yesterday + ' 23:59:59')
     except Post.DoesNotExist: # if the date isn't in the database then add it
