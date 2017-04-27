@@ -1,80 +1,56 @@
 Hourly Data For: 2017-04-22 to 2017-04-23
 
 
-Solar Radiation in Mj/m^2: 00:00:00 0.0
-Solar Radiation in Mj/m^2: 01:00:00 0.0
-Solar Radiation in Mj/m^2: 02:00:00 0.0
-Solar Radiation in Mj/m^2: 03:00:00 0.0
-Solar Radiation in Mj/m^2: 04:00:00 0.0
-Solar Radiation in Mj/m^2: 05:00:00 0.0
-Solar Radiation in Mj/m^2: 06:00:00 1.7
-Solar Radiation in Mj/m^2: 07:00:00 92.4
-Solar Radiation in Mj/m^2: 08:00:00 282.0
-Solar Radiation in Mj/m^2: 09:00:00 476.5
-Solar Radiation in Mj/m^2: 10:00:00 627.1
-Solar Radiation in Mj/m^2: 11:00:00 692.0
-Solar Radiation in Mj/m^2: 12:00:00 874.1
-Solar Radiation in Mj/m^2: 13:00:00 896.7
-Solar Radiation in Mj/m^2: 14:00:00 884.8
-Solar Radiation in Mj/m^2: 15:00:00 802.3
-Solar Radiation in Mj/m^2: 16:00:00 683.6
-Solar Radiation in Mj/m^2: 17:00:00 446.1
-Solar Radiation in Mj/m^2: 18:00:00 232.3
-Solar Radiation in Mj/m^2: 19:00:00 82.4
-Solar Radiation in Mj/m^2: 20:00:00 6.8
-Solar Radiation in Mj/m^2: 21:00:00 0.0
-Solar Radiation in Mj/m^2: 22:00:00 0.0
-Solar Radiation in Mj/m^2: 23:00:00 0.0
+Solar Radiation in Mj/m^2
+00:00    0.0
+01:00    0.0
+02:00    0.0
+03:00    0.0
+04:00    0.0
+05:00    0.0
+06:00    1.7
+07:00    92.4
+08:00    282.0
+09:00    476.5
+10:00    627.1
+11:00    692.0
+12:00    874.1
+13:00    896.7
+14:00    884.8
+15:00    802.3
+16:00    683.6
+17:00    446.1
+18:00    232.3
+19:00    82.4
+20:00    6.8
+21:00    0.0
+22:00    0.0
+23:00    0.0
 
 
-Solar Radiation in W/m^2: 00:00:00 0.0000
-Solar Radiation in W/m^2: 01:00:00 0.0000
-Solar Radiation in W/m^2: 02:00:00 0.0000
-Solar Radiation in W/m^2: 03:00:00 0.0000
-Solar Radiation in W/m^2: 04:00:00 0.0000
-Solar Radiation in W/m^2: 05:00:00 0.0000
-Solar Radiation in W/m^2: 06:00:00 0.0062
-Solar Radiation in W/m^2: 07:00:00 0.3325
-Solar Radiation in W/m^2: 08:00:00 1.0152
-Solar Radiation in W/m^2: 09:00:00 1.7152
-Solar Radiation in W/m^2: 10:00:00 2.2574
-Solar Radiation in W/m^2: 11:00:00 2.4911
-Solar Radiation in W/m^2: 12:00:00 3.1468
-Solar Radiation in W/m^2: 13:00:00 3.2283
-Solar Radiation in W/m^2: 14:00:00 3.1852
-Solar Radiation in W/m^2: 15:00:00 2.8883
-Solar Radiation in W/m^2: 16:00:00 2.4611
-Solar Radiation in W/m^2: 17:00:00 1.6061
-Solar Radiation in W/m^2: 18:00:00 0.8364
-Solar Radiation in W/m^2: 19:00:00 0.2965
-Solar Radiation in W/m^2: 20:00:00 0.0243
-Solar Radiation in W/m^2: 21:00:00 0.0000
-Solar Radiation in W/m^2: 22:00:00 0.0000
-Solar Radiation in W/m^2: 23:00:00 0.0000
-
-
-Air Temp Avg: 00:00:00 34.03
-Air Temp Avg: 01:00:00 33.12
-Air Temp Avg: 02:00:00 32.09
-Air Temp Avg: 03:00:00 31.46
-Air Temp Avg: 04:00:00 30.90
-Air Temp Avg: 05:00:00 29.47
-Air Temp Avg: 06:00:00 28.85
-Air Temp Avg: 07:00:00 30.22
-Air Temp Avg: 08:00:00 35.07
-Air Temp Avg: 09:00:00 41.81
-Air Temp Avg: 10:00:00 46.01
-Air Temp Avg: 11:00:00 48.13
-Air Temp Avg: 12:00:00 51.51
-Air Temp Avg: 13:00:00 53.12
-Air Temp Avg: 14:00:00 55.48
-Air Temp Avg: 15:00:00 56.85
-Air Temp Avg: 16:00:00 57.51
-Air Temp Avg: 17:00:00 57.21
-Air Temp Avg: 18:00:00 55.56
-Air Temp Avg: 19:00:00 52.56
-Air Temp Avg: 20:00:00 49.01
-Air Temp Avg: 21:00:00 47.08
-Air Temp Avg: 22:00:00 43.77
-Air Temp Avg: 23:00:00 42.07
-Air Temp Avg: 00:00:00 42.24
+Air Temperature in Fahrenheit
+00:00:00    34.03
+01:00:00    33.12
+02:00:00    32.09
+03:00:00    31.46
+04:00:00    30.90
+05:00:00    29.47
+06:00:00    28.85
+07:00:00    30.22
+08:00:00    35.07
+09:00:00    41.81
+10:00:00    46.01
+11:00:00    48.13
+12:00:00    51.51
+13:00:00    53.12
+14:00:00    55.48
+15:00:00    56.85
+16:00:00    57.51
+17:00:00    57.21
+18:00:00    55.56
+19:00:00    52.56
+20:00:00    49.01
+21:00:00    47.08
+22:00:00    43.77
+23:00:00    42.07
+00:00:00    42.24
